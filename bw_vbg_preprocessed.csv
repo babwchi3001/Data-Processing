@@ -1,0 +1,831 @@
+typ_bw,FID,rvs_str,key_str,bez_str,richtung_str,km_von,km_bis,bez_bw,nr_bw,baujahr_bw,breite_bw,hoehe_bw,laenge_bw,alter_bw,wandflaeche_bw,old_bw
+bruecke,bruecke.149,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,6,6.705,Bubenriederbachbrücke,L001 008,1897.0,7.0,,705.0,125.0,,True
+bruecke,bruecke.195,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,1,1.727,Hoferbachbrücke,L001 003,1975.0,7.0,,727.0,47.0,,True
+bruecke,bruecke.220,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,1,1.864,V15a Ruggbachdurchlass,L001 004,1980.0,7.0,,864.0,42.0,,True
+bruecke,bruecke.238,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,2,2.276,V13 Überführung der L1,A 14 007,1979.0,7.0,,276.0,43.0,,True
+bruecke,bruecke.346,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,7,7.871,Eschbachbrücke (Hohenweilerbach),L001 011,1899.0,7.0,,871.0,123.0,,True
+bruecke,bruecke.378,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,5,5.594,Wiedebachbrücke (Diezlingerbach/Weidebach),L001 006,1912.0,7.0,,594.0,110.0,,True
+bruecke,bruecke.385,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,0,0.503,Kugelbeerbrücke,L001 001,2003.0,7.0,,503.0,19.0,,False
+bruecke,bruecke.395,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,6,6.871,Seilerbachbrücke,L001 009,1899.0,7.0,,871.0,123.0,,True
+bruecke,bruecke.425,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,6,6.255,Fesslerbachbrücke (Gwiggerbach),L001 007,1954.0,7.0,,255.0,68.0,,True
+bruecke,bruecke.541,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,4,4.679,Bergerbachbrücke,L001 005,1912.0,7.0,,679.0,110.0,,True
+bruecke,bruecke.614,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,8,8.973,Rickenbachbrücke (Grenze),L001 013,1988.0,7.0,,973.0,34.0,,True
+bruecke,bruecke.658,8    -L   1 -    -,L1,Hohenweiler Straße,RFB 1,1,1.018,Lochauerbachbrücke,L001 002,1916.0,7.0,,18.0,106.0,,True
+bruecke,bruecke.213,8    -L  10 -    -,L10,Möggerser Straße,RFB 1,0,0.213,Riedbachbrücke,L010 001,1976.0,7.0,,213.0,46.0,,True
+bruecke,bruecke.94,8    -L  11 -    -,L11,Eichenberger Straße,RFB 1,4,4.347,Tiefgarage Schönblick (Fremdbrücke),L011 011,1989.0,7.0,,347.0,33.0,,True
+bruecke,bruecke.193,8    -L  11 -    -,L11,Eichenberger Straße,RFB 1,2,2.369,Hoferbachbrücke 2,L011 003,1972.0,7.0,,369.0,50.0,,True
+bruecke,bruecke.352,8    -L  11 -    -,L11,Eichenberger Straße,RFB 1,2,2.565,Hoferbachbrücke 3,L011 004,1972.0,7.0,,565.0,50.0,,True
+bruecke,bruecke.431,8    -L  11 -    -,L11,Eichenberger Straße,RFB 1,2,2.98,Hangbrücke Wanne,L011 005,1977.0,7.0,,980.0,45.0,,True
+bruecke,bruecke.484,8    -L  11 -    -,L11,Eichenberger Straße,RFB 1,0,0.464,Hoferbachbrücke 1,L011 001,2008.0,7.0,,464.0,14.0,,False
+bruecke,bruecke.588,8    -L  11 -    -,L11,Eichenberger Straße,RFB 1,2,2.191,Hangbrücke,L011 002,1972.0,7.0,,191.0,50.0,,True
+bruecke,bruecke.163,8    -L  12 -    -,L12,Fluher Straße,RFB 1,5,5.888,Grasreuterbachbrücke,L012 001,1925.0,7.0,,888.0,97.0,,True
+bruecke,bruecke.656,8    -L  12 -    -,L12,Fluher Straße,RFB 1,5,5.966,Wirtatobelbrücke,L012 002,1988.0,7.0,,966.0,34.0,,True
+bruecke,bruecke.115,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,2,2.533,Bregenzerachbrücke,L013 002,1979.0,7.0,,533.0,43.0,,True
+bruecke,bruecke.253,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,0,0.598,V21d Radwegunterführung Kreisverkehr 2,L013 004,2004.0,7.0,,598.0,18.0,,False
+bruecke,bruecke.409,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,0,0.041,Überführung  der L13 über den Citytunnel,A 14 T02,2022.0,7.0,,41.0,0.0,,False
+bruecke,bruecke.523,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,2,2.186,Werkskanalbrücke,L013 001,1975.0,7.0,,186.0,47.0,,True
+bruecke,bruecke.673,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,0,0.57,V21d Radwegunterführung Kreisverkehr 1,L013 003,2004.0,7.0,,570.0,18.0,,False
+bruecke,bruecke.196,8    -L  14 -    -,L14,Bucher Straße,RFB 1,6,6.76,Sägertobelbrücke,L014 005,1990.0,7.0,,760.0,32.0,,True
+bruecke,bruecke.322,8    -L  14 -    -,L14,Bucher Straße,RFB 1,9,9.806,Fischbachbrücke,L014 007,2013.0,7.0,,806.0,9.0,,False
+bruecke,bruecke.329,8    -L  14 -    -,L14,Bucher Straße,RFB 1,4,4.129,Bruckgrabenbrücke,L014 003,1983.0,7.0,,129.0,39.0,,True
+bruecke,bruecke.331,8    -L  14 -    -,L14,Bucher Straße,RFB 1,7,7.364,Gewölbedurchlass 2,L014 006,2009.0,7.0,,364.0,13.0,,False
+bruecke,bruecke.498,8    -L  14 -    -,L14,Bucher Straße,RFB 1,3,3.577,Ippachbrücke,L014 002,2001.0,7.0,,577.0,21.0,,False
+bruecke,bruecke.620,8    -L  14 -    -,L14,Bucher Straße,RFB 1,2,2.557,Hangbrücke Ippach,L014 001,1977.0,7.0,,557.0,45.0,,True
+bruecke,bruecke.122,8    -L  15 -    -,L15,Bildsteiner Straße,RFB 1,0,0.722,Hangbrücke 1,L015 002,1987.0,7.0,,722.0,35.0,,True
+bruecke,bruecke.291,8    -L  15 -    -,L15,Bildsteiner Straße,RFB 1,0,0.112,Oberer Schlattgrabendurchlass,L015 001,1985.0,7.0,,112.0,37.0,,True
+bruecke,bruecke.298,8    -L  15 -    -,L15,Bildsteiner Straße,RFB 1,0,0.919,Hangbrücke 2,L015 003,1987.0,7.0,,919.0,35.0,,True
+bruecke,bruecke.565,8    -L  15 -    -,L15,Bildsteiner Straße,RFB 1,3,4.0,Minderachbrücke,L015 004,1956.0,7.0,,1000.0,66.0,,True
+bruecke,bruecke.287,8    -L  16 -    -,L16,Wälderstraße,RFB 1,1,1.69,Ippachbrücke,L016 001,2014.0,7.0,,690.0,8.0,,False
+bruecke,bruecke.479,8    -L  16 -    -,L16,Wälderstraße,RFB 1,0,0.943,V26 Überführung der L16 Wälder Straße,A 14 026,1979.0,7.0,,943.0,43.0,,True
+bruecke,bruecke.123,8    -L  18 -    -,L18,Hörbranzer Straße,RFB 1,2,2.566,Fabrikskanalbrücke,L018 002,1920.0,7.0,,566.0,102.0,,True
+bruecke,bruecke.536,8    -L  18 -    -,L18,Hörbranzer Straße,RFB 1,0,0.747,Ruggbachbrücke,L018 001,1965.0,7.0,,747.0,57.0,,True
+bruecke,bruecke.639,8    -L  18 -    -,L18,Hörbranzer Straße,RFB 1,3,3.052,Leiblachbrücke (Grenze),L018 003,1982.0,7.0,,52.0,40.0,,True
+bruecke,bruecke.28,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,57,57.104,Illbrücke bei der Säge Flöry,B188 002,1938.0,6.5,,104.0,84.0,,True
+bruecke,bruecke.33,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,73,73.608,Rappentobelbrücke 2,B188 019,1962.0,6.5,,608.0,60.0,,True
+bruecke,bruecke.41,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,73,73.252,Stiefentobelbrücke,B188 017,1986.0,6.5,,252.0,36.0,,True
+bruecke,bruecke.107,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,81,81.574,Grafesertobelbrücke,B188 023,1961.0,6.5,,574.0,61.0,,True
+bruecke,bruecke.117,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,73,73.428,Bargustobelbrücke,B188 018,1962.0,6.5,,428.0,60.0,,True
+bruecke,bruecke.170,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,73,73.115,Ill - Landbrücke,B188 016,1953.0,6.5,,115.0,69.0,,True
+bruecke,bruecke.172,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,58,58.695,Querungsbauwerk Unterwasserkanal und Schwallentlastung,B188 037,1969.0,6.5,,695.0,53.0,,True
+bruecke,bruecke.191,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,84,84.92,Untere Illbrücke Lorüns,B188 026,1959.0,6.5,,920.0,63.0,,True
+bruecke,bruecke.221,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,76,76.518,Litzbrücke,B188 021,2002.0,6.5,,518.0,20.0,,False
+bruecke,bruecke.274,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,62,62.745,Untere Illbrücke Gaschurn,B188 009,1985.0,6.5,,745.0,37.0,,True
+bruecke,bruecke.277,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,84,84.665,Oberwasserkanalbrücke (Radweg),B188 025,1959.0,6.5,,665.0,63.0,,True
+bruecke,bruecke.285,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,60,61.0,Obere Illbrücke Gaschurn,B188 005,1996.0,6.5,,1000.0,26.0,,True
+bruecke,bruecke.308,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,83,83.48,Obere Illbrücke Lorüns,B188 024,1999.0,6.5,,480.0,23.0,,True
+bruecke,bruecke.310,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,75,75.342,Geh- und Radwegunterführung,B188 020,2018.0,6.5,,342.0,4.0,,False
+bruecke,bruecke.386,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,85,85.422,Alfenz- und Überlaufkanalbrücke,B188 027,1960.0,6.5,,422.0,62.0,,True
+bruecke,bruecke.445,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,66,66.301,Fleischbachbrücke,B188 012,2002.0,6.5,,301.0,20.0,,False
+bruecke,bruecke.474,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,67,67.398,Tramosabrücke,B188 014,1962.0,6.5,,398.0,60.0,,True
+bruecke,bruecke.507,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,59,59.917,Querungsbauwerk Förderbanddurchlass (VIW),B188 033,2022.0,6.5,,917.0,0.0,,False
+bruecke,bruecke.515,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,60,60.617,Gättertobelbrücke,B188 004,1996.0,6.5,,617.0,26.0,,True
+bruecke,bruecke.547,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,85,85.501,Radwegunterführung,B188 029,1999.0,6.5,,501.0,23.0,,True
+bruecke,bruecke.562,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,62,62.802,Gehsteigbrücke über Armco Durchlass (Randbalken),B188 006a,2013.0,6.5,,802.0,9.0,,False
+bruecke,bruecke.575,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,65,65.821,Hüttnertobelbrücke,B188 011,1920.0,6.5,,821.0,102.0,,True
+bruecke,bruecke.582,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,65,65.204,Balbierbachbrücke,B188 010,2011.0,6.5,,204.0,11.0,,False
+bruecke,bruecke.605,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,61,61.546,Garnerabachbrücke,B188 008,1996.0,6.5,,546.0,26.0,,True
+bruecke,bruecke.607,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,58,58.682,Querung Kabelkanalbrücke VIW,B188 036,1969.0,6.5,,682.0,53.0,,True
+bruecke,bruecke.622,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,70,70.918,Illbrücke Maurenstutz,B188 015,1988.0,6.5,,918.0,34.0,,True
+bruecke,bruecke.641,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,61,61.161,Klauserbachdurchlass,B188 007,1996.0,6.5,,161.0,26.0,,True
+bruecke,bruecke.650,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,62,62.807,Armco Durchlass,B188 006,1985.0,6.5,,807.0,37.0,,True
+bruecke,bruecke.336,8    -L  19 -    -,L19,Gaißauer Straße,RFB 1,4,4.661,Rheinbrücke Gaißau - Rheineck (Grenze),L019 001,1962.0,,,661.0,60.0,,True
+bruecke,bruecke.6,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,25,25.283,Fußgängerunterführung Levis,B190 022,1980.0,9.0,,283.0,42.0,,True
+bruecke,bruecke.11,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,2,2.931,Brunnenbachbrücke 2,B190 065,1920.0,9.0,,931.0,102.0,,True
+bruecke,bruecke.20,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,14,14.897,Tuxbachbrücke,B190 085,1995.0,9.0,,897.0,27.0,,True
+bruecke,bruecke.27,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,58,58.286,Fußgängerunterführung Weihersteig,B190 056,1966.0,9.0,,286.0,56.0,,True
+bruecke,bruecke.48,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,20,20.068,Geh- und Radwegbrücke (ehemals nur Gehsteig),B190 086,1975.0,9.0,,68.0,47.0,,True
+bruecke,bruecke.55,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,58,58.975,Weissenreutebachdurchlass,B190 066,1996.0,9.0,,975.0,26.0,,True
+bruecke,bruecke.61,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,16,16.87,Galinabrücke,B190 010,1994.0,9.0,,870.0,28.0,,True
+bruecke,bruecke.72,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,31,31.931,Klausbachbrücke,B190 029,1907.0,9.0,,931.0,115.0,,True
+bruecke,bruecke.85,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,33,33.573,V101 Überführung B190 Straßenhäuser,A 14 076,1963.0,9.0,,573.0,59.0,,True
+bruecke,bruecke.91,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,12,12.646,Durchlass Getzner,B190 007,1897.0,9.0,,646.0,125.0,,True
+bruecke,bruecke.100,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,59,59.975,Mühlebachbrücke,B190 059,2009.0,9.0,,975.0,13.0,,False
+bruecke,bruecke.102,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,56,56.297,Bregenzerachbrücke Lauterach,B190 053,1958.0,9.0,,297.0,64.0,,True
+bruecke,bruecke.135,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,59,59.285,Parkgarage Haus am Hafen,B190 078,2003.0,9.0,,285.0,19.0,,False
+bruecke,bruecke.140,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,0,0.313,Unterführung der Montafonerbahn,B190 001,1960.0,9.0,,313.0,62.0,,True
+bruecke,bruecke.142,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,0,0.313,Kugelbeerbachbrücke,B190 090,2022.0,9.0,,313.0,0.0,,False
+bruecke,bruecke.165,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,58,58.058,Fußgängerunterführung Augasse,B190 055,1966.0,9.0,,58.0,56.0,,True
+bruecke,bruecke.177,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,59,59.369,Steinebachbrücke,B190 058,2009.0,9.0,,369.0,13.0,,False
+bruecke,bruecke.184,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,52,52.021,"Durchlass (Neumahdfeldbach) LW 2,30m",B190 048,1930.0,9.0,,21.0,92.0,,True
+bruecke,bruecke.197,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,47,47.24,Müllerbachdurchlass 1,B190 037,1986.0,9.0,,240.0,36.0,,True
+bruecke,bruecke.202,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,23,23.623,Fußgängerunterführung Bärenkreuzung,B190 021,1974.0,9.0,,623.0,48.0,,True
+bruecke,bruecke.239,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,49,49.573,Fischbachbrücke,B190 042,1956.0,9.0,,573.0,66.0,,True
+bruecke,bruecke.249,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,63,63.195,Leiblachbrücke Unterhochsteg (Grenze),B190 063,1950.0,9.0,,195.0,72.0,,True
+bruecke,bruecke.255,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,12,12.675,Mengbachbrücke,B190 008,1932.0,9.0,,675.0,90.0,,True
+bruecke,bruecke.264,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,59,59.866,Schanzgrabendurchlass,B190 084,2011.0,9.0,,866.0,11.0,,False
+bruecke,bruecke.271,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,47,47.257,Müllerbachdurchlass 2,B190 038,1986.0,9.0,,257.0,36.0,,True
+bruecke,bruecke.284,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,3,4.035,Galgentobelbrücke,B190 004,1900.0,9.0,,1035.0,122.0,,True
+bruecke,bruecke.303,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,61,61.998,Lochauerbachbrücke,B190 060,1935.0,9.0,,998.0,87.0,,True
+bruecke,bruecke.345,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,30,30.678,Frutzbrücke,B190 026,2012.0,9.0,,678.0,10.0,,False
+bruecke,bruecke.348,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,42,42.801,Brücke über die Schollenstraße,B190 033,1984.0,9.0,,801.0,38.0,,True
+bruecke,bruecke.354,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,16,16.911,Fußgängerunterführung Galina,B190 011,1994.0,9.0,,911.0,28.0,,True
+bruecke,bruecke.362,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,51,51.925,Neumahdfeldbachbrücke (Weitriedgraben),B190 047,1930.0,9.0,,925.0,92.0,,True
+bruecke,bruecke.363,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,0,0.982,Fußgängerbrücke über die ÖBB Bludenz,B190 002a,1970.0,9.0,,982.0,52.0,,True
+bruecke,bruecke.368,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,19,19.634,Unterführung der L54,B190 067,1989.0,9.0,,634.0,33.0,,True
+bruecke,bruecke.371,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,53,53.262,Wolfurter Landgrabendurchlass,B190 051,2017.0,9.0,,262.0,5.0,,False
+bruecke,bruecke.380,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,63,63.154,Mühlbachbrücke 2,B190 062,1997.0,9.0,,154.0,25.0,,True
+bruecke,bruecke.388,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,31,31.383,Ratzbachbrücke,B190 028,2016.0,9.0,,383.0,6.0,,False
+bruecke,bruecke.411,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,50,50.444,Haselstauderbachbrücke,B190 043,1956.0,9.0,,444.0,66.0,,True
+bruecke,bruecke.416,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,0,0.942,Brücke über die ÖBB Bludenz,B190 002,1997.0,9.0,,942.0,25.0,,True
+bruecke,bruecke.418,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,0,0.942,Oberlochauerbachbrücke,B190 091,2022.0,9.0,,942.0,0.0,,False
+bruecke,bruecke.433,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,52,52.153,Hohe Brücke,B190 049,1990.0,9.0,,153.0,32.0,,True
+bruecke,bruecke.440,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,62,62.722,Ruggbachbrücke,B190 061,1935.0,9.0,,722.0,87.0,,True
+bruecke,bruecke.459,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,56,56.897,Fußgängerunterführung Losergasse,B190 054,1970.0,9.0,,897.0,52.0,,True
+bruecke,bruecke.465,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,20,20.177,Saminabrücke,B190 014,1987.0,9.0,,177.0,35.0,,True
+bruecke,bruecke.477,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,47,47.153,Sägerbrücke,B190 036,2014.0,9.0,,153.0,8.0,,False
+bruecke,bruecke.491,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,47,48.115,Tiefgarage Dornbirn,B190 081,2008.0,9.0,,1115.0,14.0,,False
+bruecke,bruecke.509,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,34,34.111,Kalkofenbachdurchlass,B190 080,2008.0,9.0,,111.0,14.0,,False
+bruecke,bruecke.514,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,11,11.96,Nasotbrücke über den Gemeindeweg,B190 006,1934.0,9.0,,960.0,88.0,,True
+bruecke,bruecke.519,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,26,26.569,Naflabrücke,B190 024,1966.0,9.0,,569.0,56.0,,True
+bruecke,bruecke.525,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,16,16.22,Düker Walgaukraftwerk,B190 009,1981.0,9.0,,220.0,41.0,,True
+bruecke,bruecke.542,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,58,58.748,Fußgängerunterführung Tourismushaus 1,B190 076,1996.0,9.0,,748.0,26.0,,True
+bruecke,bruecke.554,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,57,57.671,Überführung der L190 über den Citytunnel,A 14 T02,2022.0,9.0,,671.0,0.0,,False
+bruecke,bruecke.570,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,45,45.332,Fußgängerunterführung Wallenmahd,B190 035,1971.0,9.0,,332.0,51.0,,True
+bruecke,bruecke.590,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,35,35.48,Emmebachbrücke,B190 030,1960.0,9.0,,480.0,62.0,,True
+bruecke,bruecke.597,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,58,58.782,Fußgängerunterführung Tourismushaus 2,B190 077,1996.0,9.0,,782.0,26.0,,True
+bruecke,bruecke.603,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,23,23.41,Fußgängerunterführung Schloßgraben,B190 020,1975.0,9.0,,410.0,47.0,,True
+bruecke,bruecke.616,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,43,43.839,Landgrabenbrücke 1,B190 034,1958.0,9.0,,839.0,64.0,,True
+bruecke,bruecke.630,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,57,57.27,Überführung Riedberg- Radwegtunnel,B190 088,2022.0,9.0,,270.0,0.0,,False
+bruecke,bruecke.638,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,19,19.679,Gießenbachdurchlass,B190 013,1989.0,9.0,,679.0,33.0,,True
+bruecke,bruecke.652,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,27,27.549,Mühlbachbrücke 1,B190 025,1958.0,9.0,,549.0,64.0,,True
+bruecke,bruecke.659,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,1,1.088,Fußgängerunterführung St Peter,B190 003,1976.0,9.0,,88.0,46.0,,True
+bruecke,bruecke.675,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,42,42.173,Ermenbachbrücke,B190 032,1920.0,9.0,,173.0,102.0,,True
+bruecke,bruecke.330,8    -L 190 -  22-R 2,L190-22-R2,Vorarlberger Straße Felsenau - Rampe 2,RFB 1,42,0.127,Brücke über L190 und Ill,B190 018,1980.0,5.0,,41873.0,42.0,,True
+bruecke,bruecke.460,8    -L 190 -    -D,L190-D,Vorarlberger Straße,RFB 1,41,41.311,Emsbachbrücke Schillerallee,B190 083,2009.0,5.0,,311.0,13.0,,False
+bruecke,bruecke.22,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,51,51.46,V43a Landgrabendurchlass,B190 046,2007.0,5.0,,460.0,15.0,,False
+bruecke,bruecke.56,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,22,22.574,Brücke über L190 und Ill,B190 018,1980.0,5.0,,574.0,42.0,,True
+bruecke,bruecke.66,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,22,23.024,Illbrücke Felsenau R,B190 019 R,1980.0,5.0,,1024.0,42.0,,True
+bruecke,bruecke.243,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,2,2.53,Brunnenbachbrücke 1,B190 064,1996.0,5.0,,530.0,26.0,,True
+bruecke,bruecke.584,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,22,22.274,Blödlebachdurchlass 3,B190 017,1980.0,5.0,,274.0,42.0,,True
+bruecke,bruecke.592,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,22,22.283,Durchlass Verbandsammler,B190 089,1980.0,5.0,,283.0,42.0,,True
+bruecke,bruecke.645,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,5,5.615,W27R Überführung der B190,A 14 127 R,1980.0,5.0,,615.0,42.0,,True
+bruecke,bruecke.129,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,22,22.285,Durchlass Verbandsammler,B190 089,1980.0,5.0,,285.0,42.0,,True
+bruecke,bruecke.159,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,23,22.58,Illbrücke Felsenau L,B190 019 L,1980.0,5.0,,420.0,42.0,,True
+bruecke,bruecke.317,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,22,22.256,Blödlebachdurchlass 3,B190 017,1980.0,5.0,,256.0,42.0,,True
+bruecke,bruecke.341,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,51,51.467,V43a Landgrabendurchlass,B190 046,2007.0,5.0,,467.0,15.0,,False
+bruecke,bruecke.535,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,5,5.501,W27L Überführung der B190,A 14 127 L,1980.0,5.0,,501.0,42.0,,True
+bruecke,bruecke.80,8    -L 191a-    -,L191a,Liechtensteiner Straße,RFB 1,5,0.017,Fußgängerunterführung Bärenkreuzung,B190 021,1974.0,9.0,,4983.0,48.0,,True
+bruecke,bruecke.151,8    -L 191a-    -,L191a,Liechtensteiner Straße,RFB 1,0,0.418,Hämmerle Verbindungskanal,B191 006,1924.0,9.0,,418.0,98.0,,True
+bruecke,bruecke.232,8    -L 191a-    -,L191a,Liechtensteiner Straße,RFB 1,1,1.973,Fußgängerunterführung Tisis,B191 005,1979.0,9.0,,973.0,43.0,,True
+bruecke,bruecke.297,8    -L 191a-    -,L191a,Liechtensteiner Straße,RFB 1,0,0.138,Fußgängerunterführung Hirschgraben,B191 001,1973.0,9.0,,138.0,49.0,,True
+bruecke,bruecke.397,8    -L 191a-    -,L191a,Liechtensteiner Straße,RFB 1,0,0.382,Fußgängerunterführung Keckgründe (unterer Hirschgraben bei Garzon),B191 002,1973.0,9.0,,382.0,49.0,,True
+bruecke,bruecke.564,8    -L 191a-    -,L191a,Liechtensteiner Straße,RFB 1,0,0.467,Montfortbrücke,B191 003,1974.0,9.0,,467.0,48.0,,True
+bruecke,bruecke.50,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,9,9.467,Gargellenbachbrücke,B192 012,1969.0,9.0,,467.0,53.0,,True
+bruecke,bruecke.96,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,5,5.661,Suggadinbachbrücke 1,B192 006,1957.0,9.0,,661.0,65.0,,True
+bruecke,bruecke.179,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,2,2.636,Klehenztobelbrücke,B192 003,1967.0,9.0,,636.0,55.0,,True
+bruecke,bruecke.189,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,2,2.636,Leitungsträgerbrücke,B192 006a,2022.0,9.0,,636.0,0.0,,False
+bruecke,bruecke.215,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,0,0.113,Illbrücke Badmunt,B192 001,1917.0,9.0,,113.0,105.0,,True
+bruecke,bruecke.247,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,6,6.142,Valiserabrücke,B192 007,2012.0,9.0,,142.0,10.0,,False
+bruecke,bruecke.258,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,9,9.963,Valzifenzbachbrücke,B192 013,1971.0,9.0,,963.0,51.0,,True
+bruecke,bruecke.266,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,7,7.607,Fidelisbachbrücke,B192 015,2006.0,9.0,,607.0,16.0,,False
+bruecke,bruecke.324,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,7,7.025,Sarottlatobelbrücke,B192 009,2005.0,9.0,,25.0,17.0,,False
+bruecke,bruecke.373,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,8,8.584,Röbibachbrücke,B192 010,1989.0,9.0,,584.0,33.0,,True
+bruecke,bruecke.405,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,0,0.073,Radwegunterführung Badmunt,B192 014,2000.0,9.0,,73.0,22.0,,False
+bruecke,bruecke.427,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,2,2.869,Krafttobelbrücke,B192 004,1937.0,9.0,,869.0,85.0,,True
+bruecke,bruecke.454,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,6,6.734,"Fischbachbrücke LW 2,50",B192 017,2006.0,9.0,,734.0,16.0,,False
+bruecke,bruecke.470,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,2,2.372,Gweilbachbrücke,B192 002,1988.0,9.0,,372.0,34.0,,True
+bruecke,bruecke.486,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,8,8.854,Rongbachbrücke,B192 011,1990.0,9.0,,854.0,32.0,,True
+bruecke,bruecke.503,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,7,7.303,"Plattenbrücke LW 2,50",B192 016,2006.0,9.0,,303.0,16.0,,False
+bruecke,bruecke.632,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,6,6.637,Suggadinbachbrücke 2,B192 008,1967.0,9.0,,637.0,55.0,,True
+bruecke,bruecke.669,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,5,5.454,Tiefgrabenbrücke,B192 005,1958.0,9.0,,454.0,64.0,,True
+bruecke,bruecke.8,8    -L 193 -    -,L193,Faschinastraße,RFB 1,38,38.594,Bregenzerachbrücke Au,B193 045,1980.0,7.2,,594.0,42.0,,True
+bruecke,bruecke.14,8    -L 193 -    -,L193,Faschinastraße,RFB 1,18,18.45,Rüfanerbachbrücke,B193 019,1900.0,7.2,,450.0,122.0,,True
+bruecke,bruecke.37,8    -L 193 -    -,L193,Faschinastraße,RFB 1,13,13.867,Eschtobelbrücke,B193 014,1957.0,7.2,,867.0,65.0,,True
+bruecke,bruecke.44,8    -L 193 -    -,L193,Faschinastraße,RFB 1,32,32.145,Gaistobelbrücke (Laubenbach),B193 033,1954.0,7.2,,145.0,68.0,,True
+bruecke,bruecke.58,8    -L 193 -    -,L193,Faschinastraße,RFB 1,27,27.86,Oberdamülserbachdurchlass,B193 028,1982.0,7.2,,860.0,40.0,,True
+bruecke,bruecke.74,8    -L 193 -    -,L193,Faschinastraße,RFB 1,33,33.513,Kiesgrubenbrücke,B193 037,1969.0,7.2,,513.0,53.0,,True
+bruecke,bruecke.88,8    -L 193 -    -,L193,Faschinastraße,RFB 1,16,16.397,Ladritschbrücke,B193 017,1880.0,7.2,,397.0,142.0,,True
+bruecke,bruecke.110,8    -L 193 -    -,L193,Faschinastraße,RFB 1,15,15.465,Fischbrücke,B193 016,1954.0,7.2,,465.0,68.0,,True
+bruecke,bruecke.120,8    -L 193 -    -,L193,Faschinastraße,RFB 1,12,13.019,Hangbrücke 1,B193 012,1968.0,7.2,,1019.0,54.0,,True
+bruecke,bruecke.133,8    -L 193 -    -,L193,Faschinastraße,RFB 1,33,33.935,Spargewölbe Prof 82-84,B193 048,1954.0,7.2,,935.0,68.0,,True
+bruecke,bruecke.143,8    -L 193 -    -,L193,Faschinastraße,RFB 1,32,32.341,Argenwaldbrücke,B193 034,1959.0,7.2,,341.0,63.0,,True
+bruecke,bruecke.173,8    -L 193 -    -,L193,Faschinastraße,RFB 1,4,4.123,Lutzbrücke,B193 003,1946.0,7.2,,123.0,76.0,,True
+bruecke,bruecke.181,8    -L 193 -    -,L193,Faschinastraße,RFB 1,33,33.995,Stucklitobelbrücke,B193 039,1954.0,7.2,,995.0,68.0,,True
+bruecke,bruecke.187,8    -L 193 -    -,L193,Faschinastraße,RFB 1,13,13.497,Litzentobelbrücke,B193 013,1932.0,7.2,,497.0,90.0,,True
+bruecke,bruecke.207,8    -L 193 -    -,L193,Faschinastraße,RFB 1,28,28.802,Krumbachbrücke,B193 030,1983.0,7.2,,802.0,39.0,,True
+bruecke,bruecke.217,8    -L 193 -    -,L193,Faschinastraße,RFB 1,36,36.913,Argenbachbrücke,B193 044,1962.0,7.2,,913.0,60.0,,True
+bruecke,bruecke.224,8    -L 193 -    -,L193,Faschinastraße,RFB 1,20,20.089,Rohrdurchlass Buchholzgraben,B193 022,1973.0,7.2,,89.0,49.0,,True
+bruecke,bruecke.273,8    -L 193 -    -,L193,Faschinastraße,RFB 1,34,34.772,Ledertobelbrücke,B193 041,1972.0,7.2,,772.0,50.0,,True
+bruecke,bruecke.279,8    -L 193 -    -,L193,Faschinastraße,RFB 1,11,11.705,Gehsteigüberdeckung Durchlasseinlaufbauwerk,B193 050,1999.0,7.2,,705.0,23.0,,True
+bruecke,bruecke.288,8    -L 193 -    -,L193,Faschinastraße,RFB 1,7,7.175,Schloßtobelbrücke,B193 007,1998.0,7.2,,175.0,24.0,,True
+bruecke,bruecke.305,8    -L 193 -    -,L193,Faschinastraße,RFB 1,32,32.855,Hangbrücke 2,B193 035,1969.0,7.2,,855.0,53.0,,True
+bruecke,bruecke.311,8    -L 193 -    -,L193,Faschinastraße,RFB 1,23,23.261,Angerlitterbrücke,B193 025,1968.0,7.2,,261.0,54.0,,True
+bruecke,bruecke.318,8    -L 193 -    -,L193,Faschinastraße,RFB 1,1,1.26,Mühlbachdurchlass,B193 002,1992.0,7.2,,260.0,30.0,,True
+bruecke,bruecke.333,8    -L 193 -    -,L193,Faschinastraße,RFB 1,35,35.624,Wiesbachbrücke,B193 042,1963.0,7.2,,624.0,59.0,,True
+bruecke,bruecke.357,8    -L 193 -    -,L193,Faschinastraße,RFB 1,18,18.306,Türtschbrücke,B193 018,1938.0,7.2,,306.0,84.0,,True
+bruecke,bruecke.365,8    -L 193 -    -,L193,Faschinastraße,RFB 1,20,20.393,Kehrenbrücke,B193 023,1975.0,7.2,,393.0,47.0,,True
+bruecke,bruecke.377,8    -L 193 -    -,L193,Faschinastraße,RFB 1,29,29.841,Plattentobelbrücke,B193 031,2011.0,7.2,,841.0,11.0,,False
+bruecke,bruecke.389,8    -L 193 -    -,L193,Faschinastraße,RFB 1,19,19.779,Atzibachbrücke,B193 021,1974.0,7.2,,779.0,48.0,,True
+bruecke,bruecke.419,8    -L 193 -    -,L193,Faschinastraße,RFB 1,4,4.203,Brücke über die Druckrohrleitung der VKW,B193 004,1958.0,7.2,,203.0,64.0,,True
+bruecke,bruecke.442,8    -L 193 -    -,L193,Faschinastraße,RFB 1,33,33.743,Großtobelbrücke,B193 038,1957.0,7.2,,743.0,65.0,,True
+bruecke,bruecke.448,8    -L 193 -    -,L193,Faschinastraße,RFB 1,31,31.116,Bertschtobelbrücke,B193 032,1952.0,7.2,,116.0,70.0,,True
+bruecke,bruecke.462,8    -L 193 -    -,L193,Faschinastraße,RFB 1,24,24.239,Fadtobelbrücke,B193 026,1974.0,7.2,,239.0,48.0,,True
+bruecke,bruecke.478,8    -L 193 -    -,L193,Faschinastraße,RFB 1,9,9.55,Rottobelbrücke,B193 008,2001.0,7.2,,550.0,21.0,,False
+bruecke,bruecke.494,8    -L 193 -    -,L193,Faschinastraße,RFB 1,5,5.179,Schwarzbachbrücke 1,B193 005,1953.0,7.2,,179.0,69.0,,True
+bruecke,bruecke.517,8    -L 193 -    -,L193,Faschinastraße,RFB 1,33,33.602,Spargewölbe Prof 18,B193 049,1954.0,7.2,,602.0,68.0,,True
+bruecke,bruecke.528,8    -L 193 -    -,L193,Faschinastraße,RFB 1,5,5.884,Schwarzbachbrücke 2,B193 006,1837.0,7.2,,884.0,185.0,,True
+bruecke,bruecke.550,8    -L 193 -    -,L193,Faschinastraße,RFB 1,14,14.715,Spargewölbe,B193 015,1954.0,7.2,,715.0,68.0,,True
+bruecke,bruecke.557,8    -L 193 -    -,L193,Faschinastraße,RFB 1,0,0.622,Radwegunterführung,B193 047,2003.0,7.2,,622.0,19.0,,False
+bruecke,bruecke.572,8    -L 193 -    -,L193,Faschinastraße,RFB 1,33,33.407,Gerstenbachbrücke,B193 036,1969.0,7.2,,407.0,53.0,,True
+bruecke,bruecke.578,8    -L 193 -    -,L193,Faschinastraße,RFB 1,12,12.768,Mühletobelbrücke,B193 011,1968.0,7.2,,768.0,54.0,,True
+bruecke,bruecke.609,8    -L 193 -    -,L193,Faschinastraße,RFB 1,0,0.963,W21/22 Überführung der B193,A 14 122,1992.0,7.2,,963.0,30.0,,True
+bruecke,bruecke.618,8    -L 193 -    -,L193,Faschinastraße,RFB 1,34,34.23,Mülsertobelbrücke,B193 040,1957.0,7.2,,230.0,65.0,,True
+bruecke,bruecke.625,8    -L 193 -    -,L193,Faschinastraße,RFB 1,18,18.527,Hangbodenbrücke,B193 020,1960.0,7.2,,527.0,62.0,,True
+bruecke,bruecke.635,8    -L 193 -    -,L193,Faschinastraße,RFB 1,20,20.76,Buchholzbrücke,B193 024,1975.0,7.2,,760.0,47.0,,True
+bruecke,bruecke.643,8    -L 193 -    -,L193,Faschinastraße,RFB 1,10,10.846,Hölltobelbrücke,B193 009,2017.0,7.2,,846.0,5.0,,False
+bruecke,bruecke.654,8    -L 193 -    -,L193,Faschinastraße,RFB 1,36,36.164,Riedbachbrücke,B193 043,1962.0,7.2,,164.0,60.0,,True
+bruecke,bruecke.662,8    -L 193 -    -,L193,Faschinastraße,RFB 1,12,12.293,Rüfitobelbrücke,B193 010,1970.0,7.2,,293.0,52.0,,True
+bruecke,bruecke.82,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,16,16.285,Grätatöbelebrücke,B197 006,1962.0,8.0,,285.0,60.0,,True
+bruecke,bruecke.104,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,16,16.162,Langwiesbrücke,B197 005,2003.0,8.0,,162.0,19.0,,False
+bruecke,bruecke.488,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,13,13.917,Rauzbachbrücke,B197 002,1999.0,8.0,,917.0,23.0,,True
+bruecke,bruecke.544,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,12,12.19,Brücke in der oberen hohen Mauer,B197 001,1900.0,8.0,,190.0,122.0,,True
+bruecke,bruecke.137,8    -L 197 -    -D,L197-D,Arlbergstraße (Doppelkilometer),RFB 1,14,14.177,Valfagehrbachdurchlass,B197 003,1994.0,8.0,,177.0,28.0,,True
+bruecke,bruecke.230,8    -L 197 -    -D,L197-D,Arlbergstraße (Doppelkilometer),RFB 1,14,14.447,Viehbrücke,B197 015,2016.0,8.0,,447.0,6.0,,False
+bruecke,bruecke.24,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,14,14.668,Rüfetobelbrücke,B198 021,1905.0,6.0,,668.0,117.0,,True
+bruecke,bruecke.30,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,5,5.052,Zweite Zürsbachbrücke,B198 009,1951.0,6.0,,52.0,71.0,,True
+bruecke,bruecke.38,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,9,9.251,Mühlebrücke,B198 014,1956.0,6.0,,251.0,66.0,,True
+bruecke,bruecke.52,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,17,17.753,Krumbachbrücke (Grenze),B198 025,1907.0,6.0,,753.0,115.0,,True
+bruecke,bruecke.86,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,5,5.809,Monzabonbachbrücke,B198 011,2009.0,6.0,,809.0,13.0,,False
+bruecke,bruecke.157,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,9,9.693,Fußgängerunterführung Hotel Krone,B198 031,2011.0,6.0,,693.0,11.0,,False
+bruecke,bruecke.167,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,8,8.743,Eberabrücke,B198 012,1956.0,6.0,,743.0,66.0,,True
+bruecke,bruecke.175,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,14,14.155,Wangtobelbrücke,B198 020,1905.0,6.0,,155.0,117.0,,True
+bruecke,bruecke.199,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.602,Brücke über den Stubenbach,B198 005,1939.0,6.0,,602.0,83.0,,True
+bruecke,bruecke.251,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,10,10.158,Burgtobelbrücke,B198 017,1959.0,6.0,,158.0,63.0,,True
+bruecke,bruecke.268,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,15,15.15,Apriltobelbrücke,B198 023,1949.0,6.0,,150.0,73.0,,True
+bruecke,bruecke.281,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,4,4.453,Fußg Unterführung Hotel Zürersee/Alpenrose,B198 029,2005.0,6.0,,453.0,17.0,,False
+bruecke,bruecke.289,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,9,9.893,Tiefgarage mit Verbindungstunnel,B198 041,2019.0,6.0,,893.0,3.0,,False
+bruecke,bruecke.350,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.184,Spargewölbe 1,B198 027,1935.0,6.0,,184.0,87.0,,True
+bruecke,bruecke.359,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.289,Untere Flexenkopfbrücke,B198 003,1920.0,6.0,,289.0,102.0,,True
+bruecke,bruecke.375,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,12,12.154,Gaisbachbrücke,B198 018,1905.0,6.0,,154.0,117.0,,True
+bruecke,bruecke.382,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,10,10.118,Lechlandbrücke,B198 016,1959.0,6.0,,118.0,63.0,,True
+bruecke,bruecke.407,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,13,13.193,Karbachbrücke,B198 019,1905.0,6.0,,193.0,117.0,,True
+bruecke,bruecke.413,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.507,Spargewölbe 2,B198 028,1935.0,6.0,,507.0,87.0,,True
+bruecke,bruecke.435,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,4,4.954,Erste Zürsbachbrücke,B198 008,1951.0,6.0,,954.0,71.0,,True
+bruecke,bruecke.456,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,4,4.862,Schröflebachbrücke,B198 007,2007.0,6.0,,862.0,15.0,,False
+bruecke,bruecke.481,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,14,14.783,Glattecktobelbrücke,B198 022,1905.0,6.0,,783.0,117.0,,True
+bruecke,bruecke.492,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,5,5.782,Dritte Zürsbachbrücke,B198 010,2009.0,6.0,,782.0,13.0,,False
+bruecke,bruecke.511,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,8,8.893,Mühlelochbrücke,B198 013,1910.0,6.0,,893.0,112.0,,True
+bruecke,bruecke.521,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,9,9.403,Omesbrücke,B198 015,1956.0,6.0,,403.0,66.0,,True
+bruecke,bruecke.533,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,9,9.555,Überdeckung Krachertobeldurchlass für Gehsteigkonstruktion,B198 039,1965.0,6.0,,555.0,57.0,,True
+bruecke,bruecke.586,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.358,Obere Flexenkopfbrücke,B198 004,1938.0,6.0,,358.0,84.0,,True
+bruecke,bruecke.594,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,17,17.351,Hangbrücke,B198 024,1971.0,6.0,,351.0,51.0,,True
+bruecke,bruecke.598,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.084,Hölltobelbrücke,B198 002,2009.0,6.0,,84.0,13.0,,False
+bruecke,bruecke.600,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,3,3.02,Dörlisbodenbrücke,B198 006,1951.0,6.0,,20.0,71.0,,True
+bruecke,bruecke.2,8    -L   2 -    -,L2,Langener Straße,RFB 1,1,1.508,Fallenderbachbrücke,L002 001,1977.0,7.5,,508.0,45.0,,True
+bruecke,bruecke.76,8    -L   2 -    -,L2,Langener Straße,RFB 1,13,13.991,Kesselbachbrücke (Grenze),L002 013,1907.0,7.5,,991.0,115.0,,True
+bruecke,bruecke.131,8    -L   2 -    -,L2,Langener Straße,RFB 1,12,12.278,Durchlass Weißenhuberbach,L002 014,2000.0,7.5,,278.0,22.0,,False
+bruecke,bruecke.234,8    -L   2 -    -,L2,Langener Straße,RFB 1,10,10.759,Viehdurchlass 4,L002 012,1982.0,7.5,,759.0,40.0,,True
+bruecke,bruecke.315,8    -L   2 -    -,L2,Langener Straße,RFB 1,0,0.74,Überführung der L2 über den Citytunnel,A 14 T02,2022.0,7.5,,740.0,0.0,,False
+bruecke,bruecke.429,8    -L   2 -    -,L2,Langener Straße,RFB 1,5,5.105,Schülenbachdurchlass,L002 007,1961.0,7.5,,105.0,61.0,,True
+bruecke,bruecke.437,8    -L   2 -    -,L2,Langener Straße,RFB 1,2,2.874,Kusterbergbrücke,L002 003,1980.0,7.5,,874.0,42.0,,True
+bruecke,bruecke.472,8    -L   2 -    -,L2,Langener Straße,RFB 1,4,5.017,Hocheckbrücke,L002 006,1962.0,7.5,,1017.0,60.0,,True
+bruecke,bruecke.538,8    -L   2 -    -,L2,Langener Straße,RFB 1,7,7.932,Viehdurchlass 3,L002 010,1981.0,7.5,,932.0,41.0,,True
+bruecke,bruecke.580,8    -L   2 -    -,L2,Langener Straße,RFB 1,6,6.78,Wirtatobelbrücke,L002 009,1954.0,7.5,,780.0,68.0,,True
+bruecke,bruecke.647,8    -L   2 -    -,L2,Langener Straße,RFB 1,10,10.347,Leckenbachbrücke,L002 011,1981.0,7.5,,347.0,41.0,,True
+bruecke,bruecke.671,8    -L   2 -    -,L2,Langener Straße,RFB 1,6,6.171,Hangbrücke,L002 008,1969.0,7.5,,171.0,53.0,,True
+bruecke,bruecke.98,8    -L  20 -    -,L20,Dorener Straße,RFB 1,6,6.329,Eyenbachbrücke (Grenze),L020 002,1920.0,7.5,,329.0,102.0,,True
+bruecke,bruecke.505,8    -L  20 -    -,L20,Dorener Straße,RFB 1,1,1.025,Tobelbrücke,L020 001,1953.0,7.5,,25.0,69.0,,True
+bruecke,bruecke.16,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,29,29.986,Fluhbachbrücke,B200 026,1975.0,9.0,,986.0,47.0,,True
+bruecke,bruecke.18,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,47,47.08,Bregenzerachbrücke beim Felderbrünnele,B200 042,1965.0,9.0,,80.0,57.0,,True
+bruecke,bruecke.40,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,53,53.947,Litzetobeldurchlass,B200 052,1986.0,9.0,,947.0,36.0,,True
+bruecke,bruecke.46,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,45,45.508,Bodenbrücke,B200 038,1960.0,9.0,,508.0,62.0,,True
+bruecke,bruecke.68,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,5,5.38,Schwarzachbrücke,B200 083,2007.0,9.0,,380.0,15.0,,False
+bruecke,bruecke.90,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,54,54.966,Seebachbrücke 2,B200 055,1987.0,9.0,,966.0,35.0,,True
+bruecke,bruecke.116,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,52,52.931,Tannbergbrücke,B200 049,1935.0,9.0,,931.0,87.0,,True
+bruecke,bruecke.121,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,22,22.5,Kellengrabendurchlass,B200 074,2005.0,9.0,,500.0,17.0,,False
+bruecke,bruecke.125,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,17,17.77,Pfisterbachbrücke,B200 019,1970.0,9.0,,770.0,52.0,,True
+bruecke,bruecke.144,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,45,45.32,Schrecksbachbrücke,B200 037,1992.0,9.0,,320.0,30.0,,True
+bruecke,bruecke.146,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,22,22.815,Viedurchlass Objekt V10,B200 075,2005.0,9.0,,815.0,17.0,,False
+bruecke,bruecke.153,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,15,15.758,Hangbrücke Tuppen 1,B200 013,1976.0,9.0,,758.0,46.0,,True
+bruecke,bruecke.155,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,25,25.428,Holzsteinbachbrücke,B200 022,1972.0,9.0,,428.0,50.0,,True
+bruecke,bruecke.161,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,16,16.44,Hangbrücke Tuppen 4,B200 016,1976.0,9.0,,440.0,46.0,,True
+bruecke,bruecke.169,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,59,59.737,Viehdurchlass Drexel,B200 064,1938.0,9.0,,737.0,84.0,,True
+bruecke,bruecke.190,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,54,54.879,Litzetobelbrücke,B200 054,1988.0,9.0,,879.0,34.0,,True
+bruecke,bruecke.205,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,13,13.518,Spargewölbe-Auslaufbauwerk Rohrdurchlass,B200 091,1952.0,9.0,,518.0,70.0,,True
+bruecke,bruecke.208,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,24,24.671,Sporenbrücke,B200 021,1972.0,9.0,,671.0,50.0,,True
+bruecke,bruecke.210,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,12,12.428,Gewölbedurchlass 3 (Froisbach),B200 069,1905.0,9.0,,428.0,117.0,,True
+bruecke,bruecke.227,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,27,27.073,Zubringerunterführung,B200 023,1975.0,9.0,,73.0,47.0,,True
+bruecke,bruecke.236,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,47,47.506,Aufgelöste Stützmauer Prof 33-42 (Halbbrücke),B200 085,1959.0,9.0,,506.0,63.0,,True
+bruecke,bruecke.245,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,0,0.04,Radwegunterführung Pfeiler L200,B200 078,2008.0,9.0,,40.0,14.0,,False
+bruecke,bruecke.260,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,50.225,Wasserfallbrücke,B200 045,1963.0,9.0,,225.0,59.0,,True
+bruecke,bruecke.262,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,27,27.119,Brücke über die  Wälderbahn,B200 024,1975.0,9.0,,119.0,47.0,,True
+bruecke,bruecke.276,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,53,53.647,Heimbodenbrücke,B200 050,1986.0,9.0,,647.0,36.0,,True
+bruecke,bruecke.290,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,39,39.695,Jagdhausenbrücke,B200 033,1967.0,9.0,,695.0,55.0,,True
+bruecke,bruecke.293,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,48,48.991,Hopfrebenerbachbrücke,B200 043,1959.0,9.0,,991.0,63.0,,True
+bruecke,bruecke.300,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,15,16.151,Hangbrücke Tuppen 2,B200 014,1976.0,9.0,,1151.0,46.0,,True
+bruecke,bruecke.307,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,54,54.367,Kehrenbrücke,B200 053,1988.0,9.0,,367.0,34.0,,True
+bruecke,bruecke.313,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,13,13.489,Müselbachergraben,B200 010,1952.0,9.0,,489.0,70.0,,True
+bruecke,bruecke.320,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,45,45.72,Himmelriesebrücke,B200 039,1960.0,9.0,,720.0,62.0,,True
+bruecke,bruecke.326,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,15,15.424,Vogelkennerbachbrücke,B200 012,1974.0,9.0,,424.0,48.0,,True
+bruecke,bruecke.335,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,60,60.809,Krumbachbrücke,B200 067,1948.0,9.0,,809.0,74.0,,True
+bruecke,bruecke.343,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,0,0.828,Ochsenmahddurchlass,B200 080,2008.0,9.0,,828.0,14.0,,False
+bruecke,bruecke.353,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,59,59.107,Bergundbachbrücke,B200 062,1938.0,9.0,,107.0,84.0,,True
+bruecke,bruecke.367,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,56,56.445,Steinigwiesdurchlass,B200 059,1951.0,9.0,,445.0,71.0,,True
+bruecke,bruecke.390,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,42,42.808,Schrannebachbrücke,B200 036,1950.0,9.0,,808.0,72.0,,True
+bruecke,bruecke.392,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,31,31.411,Bregenzerachbrücke Mellau,B200 028,1975.0,9.0,,411.0,47.0,,True
+bruecke,bruecke.399,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,34,34.035,Engebrücke,B200 029,1977.0,9.0,,35.0,45.0,,True
+bruecke,bruecke.401,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,30,30.119,Simonsbachbrücke,B200 027,1975.0,9.0,,119.0,47.0,,True
+bruecke,bruecke.420,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,45,45.939,Bregenzerachbrücke E Werk,B200 040,1965.0,9.0,,939.0,57.0,,True
+bruecke,bruecke.422,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,46,46.024,Sennauerbrücke,B200 041,1959.0,9.0,,24.0,63.0,,True
+bruecke,bruecke.444,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,53,53.894,Seebachbrücke 1,B200 051,1987.0,9.0,,894.0,35.0,,True
+bruecke,bruecke.447,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,14,15.105,Maldonerbachbrücke,B200 011,2018.0,9.0,,1105.0,4.0,,False
+bruecke,bruecke.450,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,17,17.058,Schmittenbachbrücke,B200 018,1970.0,9.0,,58.0,52.0,,True
+bruecke,bruecke.464,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,58,58.174,Seebachdurchlass,B200 060,1951.0,9.0,,174.0,71.0,,True
+bruecke,bruecke.496,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,27,27.176,Rohrleitung Dürrenberggraben,B200 092,2006.0,9.0,,176.0,16.0,,False
+bruecke,bruecke.497,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,41,41.365,Rehmerbachbrücke,B200 035,1964.0,9.0,,365.0,58.0,,True
+bruecke,bruecke.513,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,55,55.839,Nessleggbrücke,B200 058,1986.0,9.0,,839.0,36.0,,True
+bruecke,bruecke.524,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,62,62.606,Wolfseggbachbrücke,B200 068,1937.0,9.0,,606.0,85.0,,True
+bruecke,bruecke.529,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,50.352,Hangbrücke 1,B200 046,1963.0,9.0,,352.0,59.0,,True
+bruecke,bruecke.531,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,35,35.45,Wilddurchlass 1 VÖST K10,B200 070,1977.0,9.0,,450.0,45.0,,True
+bruecke,bruecke.546,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,55,55.161,Bliesehangbrücke,B200 057,1986.0,9.0,,161.0,36.0,,True
+bruecke,bruecke.552,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,16,16.521,Tuppenbrücke,B200 017,1976.0,9.0,,521.0,46.0,,True
+bruecke,bruecke.558,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,40,40.663,Achbachbrücke,B200 034,1964.0,9.0,,663.0,58.0,,True
+bruecke,bruecke.560,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,50.461,Hangbrücke 2,B200 047,1962.0,9.0,,461.0,60.0,,True
+bruecke,bruecke.567,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,16,16.271,Hangbrücke Tuppen 3,B200 015,1977.0,9.0,,271.0,45.0,,True
+bruecke,bruecke.574,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,51,51.57,Unterbodenbrücke,B200 048,1982.0,9.0,,570.0,40.0,,True
+bruecke,bruecke.611,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,10,10.308,Viehdurchlass 1,B200 009,1982.0,9.0,,308.0,40.0,,True
+bruecke,bruecke.613,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,47,47.563,aufgelöste Stützmauer Prof 42-51 (Halbbrücke),B200 086,1959.0,9.0,,563.0,63.0,,True
+bruecke,bruecke.626,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,49,49.955,Hummelwaldbrücke,B200 044,1962.0,9.0,,955.0,60.0,,True
+bruecke,bruecke.628,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,36,36.905,Höllbachbrücke,B200 031,1977.0,9.0,,905.0,45.0,,True
+bruecke,bruecke.663,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,49,49.778,Riesebrücke,B200 072,1963.0,9.0,,778.0,59.0,,True
+bruecke,bruecke.665,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,36,36.629,Wilddurchlass 2 VÖST K10,B200 071,1977.0,9.0,,629.0,45.0,,True
+bruecke,bruecke.112,8    -L 200 -    -D,L200-D,Bregenzerwaldstraße,RFB 1,21,21.461,Brücke über die Druckrohrleitung,B200 020,2003.0,9.0,,461.0,19.0,,False
+bruecke,bruecke.10,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,1,1.09,Weißenbachbrücke,B201 007,1954.0,8.5,,90.0,68.0,,True
+bruecke,bruecke.60,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,1,1.808,Buchenbachbrücke,B201 009,1954.0,8.5,,808.0,68.0,,True
+bruecke,bruecke.106,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,1,0.025,Schanztobelbrücke (Grenze),B201 001,1956.0,8.5,,975.0,66.0,,True
+bruecke,bruecke.139,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,0,0.344,Sophienbrücke,B201 003,1914.0,8.5,,344.0,108.0,,True
+bruecke,bruecke.219,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,0,0.529,Karlesbubesbrücke,B201 004,1914.0,8.5,,529.0,108.0,,True
+bruecke,bruecke.283,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,3,3.829,Schmiedtobelbrücke,B201 010,1994.0,8.5,,829.0,28.0,,True
+bruecke,bruecke.339,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,8,8.906,Ahornbachbrücke,B201 014,1935.0,8.5,,906.0,87.0,,True
+bruecke,bruecke.384,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,12,12.699,Rufalabachbrücke,B201 013,1966.0,8.5,,699.0,56.0,,True
+bruecke,bruecke.415,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,0,0.698,Michelesbrücke,B201 005,1955.0,8.5,,698.0,67.0,,True
+bruecke,bruecke.473,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,5,5.306,Zwerenbachbrücke,B201 011,2000.0,8.5,,306.0,22.0,,False
+bruecke,bruecke.602,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,5,5.583,Breitachbrücke,B201 012,2002.0,8.5,,583.0,20.0,,False
+bruecke,bruecke.621,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,0,0.302,Schanzeggbrücke,B201 002,1914.0,8.5,,302.0,108.0,,True
+bruecke,bruecke.32,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,4,5.003,Lauterachbrücke,B202 005,2008.0,12.8,,1003.0,14.0,,False
+bruecke,bruecke.71,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,6,6.315,Lustenauer Kanalbrücke,B202 012,1968.0,12.8,,315.0,54.0,,True
+bruecke,bruecke.134,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,6,6.25,Dornbirnerachbrücke,B202 011,1968.0,12.8,,250.0,54.0,,True
+bruecke,bruecke.201,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,4,4.082,Fußgängerunterführung Eschlestraße,B202 018,1992.0,12.8,,82.0,30.0,,True
+bruecke,bruecke.241,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,10,10.53,Brücke Alter Rhein (Grenze),B202 014,2017.0,12.8,,530.0,5.0,,False
+bruecke,bruecke.254,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,2,3.081,Bregenzerachbrücke bei Hard,B202 003,2003.0,12.8,,1081.0,19.0,,False
+bruecke,bruecke.361,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,5,5.667,Unterführung  Erlachstraße,B202 008,1981.0,12.8,,667.0,41.0,,True
+bruecke,bruecke.410,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,5,5.215,Fußgängerunterführung Erlengrund,B202 006,1971.0,12.8,,215.0,51.0,,True
+bruecke,bruecke.432,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,6,6.762,Radwegunterführung,B202 017,1986.0,12.8,,762.0,36.0,,True
+bruecke,bruecke.458,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,6,6.169,Hardergrabenbrücke,B202 010,1939.0,12.8,,169.0,83.0,,True
+bruecke,bruecke.540,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,5,5.828,Birkengrabenbrücke,B202 009,1939.0,12.8,,828.0,83.0,,True
+bruecke,bruecke.569,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,5,5.48,Gerberbachbrücke,B202 007,1939.0,12.8,,480.0,83.0,,True
+bruecke,bruecke.589,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,6,6.734,Rheinbrücke Hard - Fußach,B202 013,1972.0,12.8,,734.0,50.0,,True
+bruecke,bruecke.637,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,4,4.145,Quellenbachbrücke,B202 004,2006.0,12.8,,145.0,16.0,,False
+bruecke,bruecke.657,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,2,2.825,Fußgängerunterführung Prälatendamm,B202 002,1975.0,12.8,,825.0,47.0,,True
+bruecke,bruecke.54,8    -L 203 -    -,L203,Rheinstraße,RFB 1,13,13.387,Rheindorfer - Kanalbrücke,B203 010,1935.0,8.0,,387.0,87.0,,True
+bruecke,bruecke.164,8    -L 203 -    -,L203,Rheinstraße,RFB 1,2,2.223,Emserachbrücke,B203 002,1933.0,8.0,,223.0,89.0,,True
+bruecke,bruecke.248,8    -L 203 -    -,L203,Rheinstraße,RFB 1,4,4.67,Ermenbachbrücke,B203 005,1930.0,8.0,,670.0,92.0,,True
+bruecke,bruecke.347,8    -L 203 -    -,L203,Rheinstraße,RFB 1,4,4.094,Sohlgrabenbrücke,B203 004,1998.0,8.0,,94.0,24.0,,True
+bruecke,bruecke.379,8    -L 203 -    -,L203,Rheinstraße,RFB 1,7,7.566,Diepoldsauer - Kanalbrücke,B203 008,1926.0,8.0,,566.0,96.0,,True
+bruecke,bruecke.439,8    -L 203 -    -,L203,Rheinstraße,RFB 1,3,3.946,Stöcklabrücke,B203 003,2004.0,8.0,,946.0,18.0,,False
+bruecke,bruecke.490,8    -L 203 -    -,L203,Rheinstraße,RFB 1,5,5.868,V62 Überführung der L203,A 14 059,1970.0,8.0,,868.0,52.0,,True
+bruecke,bruecke.615,8    -L 203 -    -,L203,Rheinstraße,RFB 1,5,5.62,Koblacher Kanalbrücke,B203 006,1969.0,8.0,,620.0,53.0,,True
+bruecke,bruecke.84,8    -L 204 -    -,L204,Lustenauer Straße,RFB 1,6,6.782,Rheinbrücke Lustenau - Au (Grenze),B204 010,1957.0,8.0,,782.0,65.0,,True
+bruecke,bruecke.302,8    -L 204 -    -,L204,Lustenauer Straße,RFB 1,1,1.175,Fußgängerunterführung Schoren,B204 001,1970.0,8.0,,175.0,52.0,,True
+bruecke,bruecke.674,8    -L 204 -    -,L204,Lustenauer Straße,RFB 1,6,6.605,Unterführung der Dammstraße,B204 009,1956.0,8.0,,605.0,66.0,,True
+bruecke,bruecke.5,8    -L 204 -    -E,L204-E,Lustenauer Straße (Einbahn),RFB 1,4,4.66,Staldenbachbrücke,B204 006,1980.0,8.0,,660.0,42.0,,True
+bruecke,bruecke.26,8    -L 204 -    -E,L204-E,Lustenauer Straße (Einbahn),RFB 1,4,4.678,Wirtschaftswegunterführung RRFB,B204 007R,1978.0,8.0,,678.0,44.0,,True
+bruecke,bruecke.183,8    -L 204 -    -E,L204-E,Lustenauer Straße (Einbahn),RFB 1,4,4.521,Koblacherkanalbrücke RRFB,B204 005R,1979.0,8.0,,521.0,43.0,,True
+bruecke,bruecke.237,8    -L 204 -    -E,L204-E,Lustenauer Straße (Einbahn),RFB 1,5,5.194,Scheibenbachdurchlass,B204 008,1980.0,8.0,,194.0,42.0,,True
+bruecke,bruecke.270,8    -L 204 -    -E,L204-E,Lustenauer Straße (Einbahn),RFB 1,3,3.869,Landgrabendurchlass,B204 004,1980.0,8.0,,869.0,42.0,,True
+bruecke,bruecke.518,8    -L 204 -    -E,L204-E,Lustenauer Straße (Einbahn),RFB 1,3,3.018,Wirtschaftswegdurchlass RRFB,B204 003R,1977.0,8.0,,18.0,45.0,,True
+bruecke,bruecke.101,8    -L 204 -    -G,L204-G,Lustenauer Straße (Gegenfahrbahn),RFB 2,3,3.869,Landgrabendurchlass,B204 004,1980.0,8.0,,869.0,42.0,,True
+bruecke,bruecke.194,8    -L 204 -    -G,L204-G,Lustenauer Straße (Gegenfahrbahn),RFB 2,5,5.187,Scheibenbachdurchlass,B204 008,1980.0,8.0,,187.0,42.0,,True
+bruecke,bruecke.328,8    -L 204 -    -G,L204-G,Lustenauer Straße (Gegenfahrbahn),RFB 2,4,4.656,Staldenbachbrücke,B204 006,1980.0,8.0,,656.0,42.0,,True
+bruecke,bruecke.508,8    -L 204 -    -G,L204-G,Lustenauer Straße (Gegenfahrbahn),RFB 2,3,3.003,Wirtschaftswegdurchlass LRFB,B204 003L,1977.0,8.0,,3.0,45.0,,True
+bruecke,bruecke.596,8    -L 204 -    -G,L204-G,Lustenauer Straße (Gegenfahrbahn),RFB 2,4,4.663,Wirtschaftswegunterführung LRFB,B204 007L,1978.0,8.0,,663.0,44.0,,True
+bruecke,bruecke.651,8    -L 204 -    -G,L204-G,Lustenauer Straße (Gegenfahrbahn),RFB 2,4,4.475,Koblacherkanalbrücke LRFB,B204 005L,1979.0,8.0,,475.0,43.0,,True
+bruecke,bruecke.65,8    -L 205 -    -,L205,Hittisauer Straße,RFB 1,11,11.893,Bärentobelbrücke,B205 003,1954.0,8.0,,893.0,68.0,,True
+bruecke,bruecke.231,8    -L 205 -    -,L205,Hittisauer Straße,RFB 1,15,15.09,Sägebachdurchlass,B205 004,1962.0,8.0,,90.0,60.0,,True
+bruecke,bruecke.372,8    -L 205 -    -,L205,Hittisauer Straße,RFB 1,0,0.168,Brücke über die L25,B205 001,1972.0,8.0,,168.0,50.0,,True
+bruecke,bruecke.396,8    -L 205 -    -,L205,Hittisauer Straße,RFB 1,16,16.441,Littenbachbrücke (Grenze),B205 005,1991.0,8.0,,441.0,31.0,,True
+bruecke,bruecke.631,8    -L 205 -    -,L205,Hittisauer Straße,RFB 1,0,1.067,Hochbrücke Lingenau,B205 002,1967.0,8.0,,1067.0,55.0,,True
+bruecke,bruecke.21,8    -L  21 -    -,L21,Sulzberger Straße,RFB 1,2,2.915,Schönenbühlbrücke,L021 003,1978.0,8.0,,915.0,44.0,,True
+bruecke,bruecke.340,8    -L  21 -    -,L21,Sulzberger Straße,RFB 1,2,2.759,Hompmannsbrücke,L021 002,1979.0,8.0,,759.0,43.0,,True
+bruecke,bruecke.485,8    -L  21 -    -,L21,Sulzberger Straße,RFB 1,13,13.319,Gschwendbrücke (Weißach),L021 005,1979.0,8.0,,319.0,43.0,,True
+bruecke,bruecke.178,8    -L  22 -    -,L22,Riefensberger Straße,RFB 1,2,2.163,Auenbrücke,L022 002,1987.0,8.0,,163.0,35.0,,True
+bruecke,bruecke.316,8    -L  22 -    -,L22,Riefensberger Straße,RFB 1,2,2.612,Fenkernbachbrücke,L022 003,1983.0,8.0,,612.0,39.0,,True
+bruecke,bruecke.323,8    -L  22 -    -,L22,Riefensberger Straße,RFB 1,6,6.871,Jagdbachdurchlass,L022 005,1976.0,8.0,,871.0,46.0,,True
+bruecke,bruecke.469,8    -L  22 -    -,L22,Riefensberger Straße,RFB 1,0,0.697,Hechtbrücke,L022 001,1959.0,8.0,,697.0,63.0,,True
+bruecke,bruecke.502,8    -L  22 -    -,L22,Riefensberger Straße,RFB 1,4,4.332,Mühlbachbrücke,L022 004,1975.0,8.0,,332.0,47.0,,True
+bruecke,bruecke.150,8    -L  24 -    -,L24,Sibratsgfäller Straße,RFB 1,5,5.788,Fischbachbrücke,L024 002,1982.0,8.0,,788.0,40.0,,True
+bruecke,bruecke.424,8    -L  24 -    -,L24,Sibratsgfäller Straße,RFB 1,4,4.352,Plattendurchlass,L024 007,1978.0,8.0,,352.0,44.0,,True
+bruecke,bruecke.453,8    -L  24 -    -,L24,Sibratsgfäller Straße,RFB 1,8,8.232,Fugenbachbrücke (Grenze),L024 005,1910.0,8.0,,232.0,112.0,,True
+bruecke,bruecke.563,8    -L  24 -    -,L24,Sibratsgfäller Straße,RFB 1,7,7.728,Tobelbachbrücke,L024 004,1910.0,8.0,,728.0,112.0,,True
+bruecke,bruecke.49,8    -L  25 -    -,L25,Müselbacher Straße,RFB 1,1,1.615,Schmittenbachbrücke,L025 001,1930.0,8.0,,615.0,92.0,,True
+bruecke,bruecke.591,8    -L  25 -    -,L25,Müselbacher Straße,RFB 1,1,1.861,Langeneggerbrücke,L025 002,1902.0,8.0,,861.0,120.0,,True
+bruecke,bruecke.95,8    -L  26 -    -,L26,Egger Straße,RFB 1,2,2.461,Eselmühlbrücke,L026 002,1977.0,8.0,,461.0,45.0,,True
+bruecke,bruecke.242,8    -L  26 -    -,L26,Egger Straße,RFB 1,3,3.27,Losenbachbrücke,L026 003,1976.0,8.0,,270.0,46.0,,True
+bruecke,bruecke.296,8    -L  26 -    -,L26,Egger Straße,RFB 1,0,0.411,Fluhbrücke,L026 001,1974.0,8.0,,411.0,48.0,,True
+bruecke,bruecke.644,8    -L  26 -    -,L26,Egger Straße,RFB 1,3,3.795,Mühltobelbachdurchlass,L026 004,1976.0,8.0,,795.0,46.0,,True
+bruecke,bruecke.79,8    -L  28 -    -,L28,Bizauer Straße,RFB 1,2,2.153,Bizauerbachbrücke,L028 002,2002.0,8.0,,153.0,20.0,,False
+bruecke,bruecke.214,8    -L  28 -    -,L28,Bizauer Straße,RFB 1,0,0.097,Bayenbrücke,L028 001,1969.0,8.0,,97.0,53.0,,True
+bruecke,bruecke.426,8    -L  29 -    -,L29,Großdorfer Straße,RFB 1,1,1.031,Viehdurchlass,L029 003,1998.0,8.0,,31.0,24.0,,True
+bruecke,bruecke.534,8    -L  29 -    -,L29,Großdorfer Straße,RFB 1,2,3.149,Gschwendtobelbrücke,L029 002,1981.0,8.0,,1149.0,41.0,,True
+bruecke,bruecke.583,8    -L  29 -    -,L29,Großdorfer Straße,RFB 1,0,0.114,Schmiedlebachbrücke,L029 001,1983.0,8.0,,114.0,39.0,,True
+bruecke,bruecke.128,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,6,6.866,Schlattgrabendurchlass,L003 005,1986.0,8.0,,866.0,36.0,,True
+bruecke,bruecke.158,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,1,1.304,Fußgängerunterführung Lauterach,L003 001,1972.0,12.5,,304.0,50.0,,True
+bruecke,bruecke.206,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,9,9.821,Haselstauderbachbrücke,L003 008,1967.0,12.5,,821.0,55.0,,True
+bruecke,bruecke.265,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,7,7.653,Minderachbrücke,L003 006,1938.0,12.5,,653.0,84.0,,True
+bruecke,bruecke.272,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,11,11.144,Fischbachbrücke,L003 009,1987.0,12.5,,144.0,35.0,,True
+bruecke,bruecke.404,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,8,8.294,Schwarzachbrücke,L003 007,1973.0,12.5,,294.0,49.0,,True
+bruecke,bruecke.501,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,5,5.18,Ippachbrücke,L003 015,2014.0,12.5,,180.0,8.0,,False
+bruecke,bruecke.608,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,9,9.123,Überquerung Achraintunnel,L003 013,2007.0,12.5,,123.0,15.0,,False
+bruecke,bruecke.668,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,6,6.689,Rickenbachbrücke,L003 004,1973.0,12.5,,689.0,49.0,,True
+bruecke,bruecke.78,8    -L   4 -    -,L4,Vorderwälder Straße,RFB 1,2,2.055,Standbachbrücke,L004 003,2014.0,7.5,,55.0,8.0,,False
+bruecke,bruecke.212,8    -L   4 -    -,L4,Vorderwälder Straße,RFB 1,8,8.256,Gehsteigbrücke (Viehdurchlass),L004 005a,1994.0,7.5,,256.0,28.0,,True
+bruecke,bruecke.332,8    -L   4 -    -,L4,Vorderwälder Straße,RFB 1,1,1.338,Rotachbrücke,L004 002,1951.0,7.5,,338.0,71.0,,True
+bruecke,bruecke.394,8    -L   4 -    -,L4,Vorderwälder Straße,RFB 1,1,1.133,Sägerbachbrücke,L004 001,2010.0,7.5,,133.0,12.0,,False
+bruecke,bruecke.468,8    -L   4 -    -,L4,Vorderwälder Straße,RFB 1,10,10.694,Brunsttobelbrücke,L004 006,2014.0,7.5,,694.0,8.0,,False
+bruecke,bruecke.223,8    -L  40 -    -,L40,Brugger Straße,RFB 1,0,0.303,Rheinbrücke bei Brugg,L040 001,1983.0,7.5,,303.0,39.0,,True
+bruecke,bruecke.7,8    -L  41 -    -,L41,Senderstraße,RFB 1,0,0.663,Grindelkanalbrücke,L041 001,1966.0,7.5,,663.0,56.0,,True
+bruecke,bruecke.103,8    -L  41 -    -,L41,Senderstraße,RFB 1,5,5.286,V35a Brücke über den Wolfurter Landgraben,L041 006,1979.0,7.5,,286.0,43.0,,True
+bruecke,bruecke.127,8    -L  41 -    -,L41,Senderstraße,RFB 1,0,0.81,Scheibenbachbrücke,L041 002,2017.0,7.5,,810.0,5.0,,False
+bruecke,bruecke.257,8    -L  41 -    -,L41,Senderstraße,RFB 1,5,5.888,Überführung der L41,B190 050,1979.0,7.5,,888.0,43.0,,True
+bruecke,bruecke.356,8    -L  41 -    -,L41,Senderstraße,RFB 1,2,2.752,Koblacherkanalbrücke,L041 003,1988.0,7.5,,752.0,34.0,,True
+bruecke,bruecke.381,8    -L  41 -    -,L41,Senderstraße,RFB 1,2,3.037,Dornbirnerachbrücke,L041 005,1916.0,7.5,,1037.0,106.0,,True
+bruecke,bruecke.434,8    -L  41 -    -,L41,Senderstraße,RFB 1,2,2.954,Elsässerkanalbrücke,L041 004,1916.0,7.5,,954.0,106.0,,True
+bruecke,bruecke.461,8    -L  41 -    -,L41,Senderstraße,RFB 1,5,5.738,Wirtschaftswegdurchlass,L041 007,1979.0,7.5,,738.0,43.0,,True
+bruecke,bruecke.15,8    -L  41 -   6-R 2,L41-6-R2,L41 Senderstraße - Rampe 2,RFB 1,0,0.494,Wolfurter Landgrabendurchlass,B190 051,2017.0,7.5,,494.0,5.0,,False
+bruecke,bruecke.527,8    -L  42 -    -,L42,Werbenstraße,RFB 1,2,2.916,V52 Überführung der L42,A 14 047,1972.0,7.5,,916.0,50.0,,True
+bruecke,bruecke.280,8    -L  44 -    -,L44,Widnauer Straße,RFB 1,1,1.464,Widnauer Rheinbrücke (Grenze),L044 002,1913.0,7.5,,464.0,109.0,,True
+bruecke,bruecke.119,8    -L  45 -    -,L45,Schmitternstraße,RFB 1,3,3.047,V58a Landgrabenbrücke,L045 002,1970.0,7.5,,47.0,52.0,,True
+bruecke,bruecke.198,8    -L  45 -    -,L45,Schmitternstraße,RFB 1,3,3.627,Koblacherkanalbrücke,L045 003,1972.0,7.5,,627.0,50.0,,True
+bruecke,bruecke.364,8    -L  45 -    -,L45,Schmitternstraße,RFB 1,3,3.586,Wirtschaftswegdurchlass am Koblacherkanal,L045 003a,1996.0,7.5,,586.0,26.0,,True
+bruecke,bruecke.412,8    -L  45 -    -,L45,Schmitternstraße,RFB 1,5,5.043,Rheinbrücke Schmitter (Grenze),L045 005,1929.0,7.5,,43.0,93.0,,True
+bruecke,bruecke.29,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,1,1.051,Fußgängerunterführung und Radweg,L046 002,1985.0,7.5,,51.0,37.0,,True
+bruecke,bruecke.186,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,1,1.134,Emsbachbrücke,L046 003,1984.0,7.5,,134.0,38.0,,True
+bruecke,bruecke.441,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,1,1.864,Brücke über den Alten Rhein (Paul Grüninger Brücke),L046 005,2008.0,7.5,,864.0,14.0,,False
+bruecke,bruecke.452,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,1,1.442,Querung Wasserverband Rheintal,L046 008,1971.0,7.5,,442.0,51.0,,True
+bruecke,bruecke.676,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,1,1.282,Koblacherkanalbrücke,L046 004,1970.0,7.5,,282.0,52.0,,True
+bruecke,bruecke.493,8    -L  47 -    -,L47,Bauernstraße,RFB 1,1,1.522,Emserachbrücke,L047 002,1989.0,7.5,,522.0,33.0,,True
+bruecke,bruecke.57,8    -L  48 -    -,L48,Bödelestraße,RFB 1,0,0.965,Steinebachbrücke,L048 001,1980.0,7.5,,965.0,42.0,,True
+bruecke,bruecke.87,8    -L  48 -    -,L48,Bödelestraße,RFB 1,7,7.066,Wiesenbrücke,L048 009,1987.0,7.5,,66.0,35.0,,True
+bruecke,bruecke.136,8    -L  48 -    -,L48,Bödelestraße,RFB 1,5,5.416,Sägerbachdurchlass,L048 007,1951.0,7.5,,416.0,71.0,,True
+bruecke,bruecke.166,8    -L  48 -    -,L48,Bödelestraße,RFB 1,4,4.512,Lumpertobelbrücke,L048 004,1979.0,7.5,,512.0,43.0,,True
+bruecke,bruecke.180,8    -L  48 -    -,L48,Bödelestraße,RFB 1,7,7.849,Hornbrücke,L048 011,1987.0,7.5,,849.0,35.0,,True
+bruecke,bruecke.226,8    -L  48 -    -,L48,Bödelestraße,RFB 1,9,9.864,Exerbachbrücke,L048 013,2019.0,7.5,,864.0,3.0,,False
+bruecke,bruecke.250,8    -L  48 -    -,L48,Bödelestraße,RFB 1,9,9.353,Viehdurchlass,L048 012,1956.0,7.5,,353.0,66.0,,True
+bruecke,bruecke.304,8    -L  48 -    -,L48,Bödelestraße,RFB 1,2,2.865,Fußgängerunterführung Watzenegg,L048 015,1972.0,7.5,,865.0,50.0,,True
+bruecke,bruecke.406,8    -L  48 -    -,L48,Bödelestraße,RFB 1,15,15.583,Schwarzenbergerbrücke,L048 014,1968.0,7.5,,583.0,54.0,,True
+bruecke,bruecke.428,8    -L  48 -    -,L48,Bödelestraße,RFB 1,8,8.206,Losenbachdurchlass,L048 016,1985.0,7.5,,206.0,37.0,,True
+bruecke,bruecke.510,8    -L  48 -    -,L48,Bödelestraße,RFB 1,5,5.134,Rickatschwendebrücke,L048 006,1978.0,7.5,,134.0,44.0,,True
+bruecke,bruecke.543,8    -L  48 -    -,L48,Bödelestraße,RFB 1,4,4.806,Sägerbachbrücke,L048 005,1979.0,7.5,,806.0,43.0,,True
+bruecke,bruecke.571,8    -L  48 -    -,L48,Bödelestraße,RFB 1,3,3.675,Gehrengrabenbrücke,L048 003,1976.0,7.5,,675.0,46.0,,True
+bruecke,bruecke.599,8    -L  48 -    -,L48,Bödelestraße,RFB 1,2,2.717,Schwendebachbrücke,L048 002,1972.0,7.5,,717.0,50.0,,True
+bruecke,bruecke.624,8    -L  48 -    -,L48,Bödelestraße,RFB 1,6,6.987,Losentobelbrücke,L048 008,1987.0,7.5,,987.0,35.0,,True
+bruecke,bruecke.634,8    -L  48 -    -,L48,Bödelestraße,RFB 1,7,7.237,Rothenbachbrücke,L048 010,1987.0,7.5,,237.0,35.0,,True
+bruecke,bruecke.111,8    -L  49 -    -,L49,Achrainstraße,RFB 1,2,2.357,Halbseitiges Gewölbe,L049 009,1920.0,7.5,,357.0,102.0,,True
+bruecke,bruecke.325,8    -L  49 -    -,L49,Achrainstraße,RFB 1,9,9.275,Dorfbachbrücke,L049 008,1978.0,7.5,,275.0,44.0,,True
+bruecke,bruecke.455,8    -L  49 -    -,L49,Achrainstraße,RFB 1,1,1.553,Haselstauderbachbrücke,L049 003,1965.0,7.5,,553.0,57.0,,True
+bruecke,bruecke.566,8    -L  49 -    -,L49,Achrainstraße,RFB 1,7,7.718,Staudertobelbrücke,L049 007,1899.0,7.5,,718.0,123.0,,True
+bruecke,bruecke.617,8    -L  49 -    -,L49,Achrainstraße,RFB 1,6,6.454,Sägerbachbrücke,L049 005,1899.0,7.5,,454.0,123.0,,True
+bruecke,bruecke.160,8    -L   5 -    -,L5,Balderschwanger Straße,RFB 1,9,9.446,Doserbachbrücke (Grenze),L005 009,1988.0,7.5,,446.0,34.0,,True
+bruecke,bruecke.299,8    -L   5 -    -,L5,Balderschwanger Straße,RFB 1,4,4.784,Völkenbrücke,L005 001,1977.0,7.5,,784.0,45.0,,True
+bruecke,bruecke.23,8    -L  50 -    -,L50,Walgaustraße,RFB 1,15,15.145,Kirchbachdurchlass,L050 013,1975.0,6.5,,145.0,47.0,,True
+bruecke,bruecke.51,8    -L  50 -    -,L50,Walgaustraße,RFB 1,0,0.37,Emmebachbrücke,L050 001,2005.0,6.5,,370.0,17.0,,False
+bruecke,bruecke.73,8    -L  50 -    -,L50,Walgaustraße,RFB 1,22,22.285,Überdeckelung Schwarzbach (längs Gehsteig),L050 017,1996.0,6.5,,285.0,26.0,,True
+bruecke,bruecke.109,8    -L  50 -    -,L50,Walgaustraße,RFB 1,8,8.845,Überdeckung Nafla (teilweise Geh- u Radweg),L050 015,1945.0,6.5,,845.0,77.0,,True
+bruecke,bruecke.152,8    -L  50 -    -,L50,Walgaustraße,RFB 1,9,10.002,Naflabrücke,L050 006,1955.0,6.5,,1002.0,67.0,,True
+bruecke,bruecke.216,8    -L  50 -    -,L50,Walgaustraße,RFB 1,18,18.079,Wiesenbachbrücke,L050 009,1979.0,6.5,,79.0,43.0,,True
+bruecke,bruecke.233,8    -L  50 -    -,L50,Walgaustraße,RFB 1,20,21.014,Zweite Schwarzbachbrücke,L050 011,1953.0,6.5,,1014.0,69.0,,True
+bruecke,bruecke.256,8    -L  50 -    -,L50,Walgaustraße,RFB 1,8,8.858,"Durchlass Nafla Verlängerung (längs, Geh- und Radweg)",L050 015a,1993.0,6.5,,858.0,29.0,,True
+bruecke,bruecke.398,8    -L  50 -    -,L50,Walgaustraße,RFB 1,20,20.38,Erste Schwarzbachbrücke,L050 010,1953.0,6.5,,380.0,69.0,,True
+bruecke,bruecke.403,8    -L  50 -    -,L50,Walgaustraße,RFB 1,17,17.876,Vermülsbachbrücke (Frommengerschbach),L050 008,2014.0,6.5,,876.0,8.0,,False
+bruecke,bruecke.504,8    -L  50 -    -,L50,Walgaustraße,RFB 1,3,3.183,Klausbachbrücke,L050 002,1972.0,6.5,,183.0,50.0,,True
+bruecke,bruecke.520,8    -L  50 -    -,L50,Walgaustraße,RFB 1,14,14.805,Pfudidetschbachbrücke,L050 007,1999.0,6.5,,805.0,23.0,,True
+bruecke,bruecke.537,8    -L  50 -    -,L50,Walgaustraße,RFB 1,3,3.916,Ratzbachbrücke,L050 003,1986.0,6.5,,916.0,36.0,,True
+bruecke,bruecke.585,8    -L  50 -    -,L50,Walgaustraße,RFB 1,22,23.016,Dritte Schwarzbachbrücke,L050 012,1953.0,6.5,,1016.0,69.0,,True
+bruecke,bruecke.593,8    -L  50 -    -,L50,Walgaustraße,RFB 1,6,6.642,Frutzbrücke,L050 004,1976.0,6.5,,642.0,46.0,,True
+bruecke,bruecke.661,8    -L  50 -    -,L50,Walgaustraße,RFB 1,8,8.457,"Naflakanal beim Gasthof Sternen (nur 1,50m der re RFB)",L050 015b,1954.0,6.5,,457.0,68.0,,True
+bruecke,bruecke.1,8    -L  51 -    -,L51,Laternser Straße,RFB 1,3,3.451,Histelerbrücke (Viedurchlass),L051 004,1907.0,6.5,,451.0,115.0,,True
+bruecke,bruecke.17,8    -L  51 -    -,L51,Laternser Straße,RFB 1,24,24.176,Armcodurchlass 2,L051 020,1969.0,6.5,,176.0,53.0,,True
+bruecke,bruecke.45,8    -L  51 -    -,L51,Laternser Straße,RFB 1,24,24.145,Armcodurchlass 1,L051 019,1969.0,6.5,,145.0,53.0,,True
+bruecke,bruecke.81,8    -L  51 -    -,L51,Laternser Straße,RFB 1,9,9.297,Gewölbedurchlass,L051 012,1972.0,6.5,,297.0,50.0,,True
+bruecke,bruecke.97,8    -L  51 -    -,L51,Laternser Straße,RFB 1,1,1.242,Batschunsertobelbrücke,L051 003,1907.0,6.5,,242.0,115.0,,True
+bruecke,bruecke.130,8    -L  51 -    -,L51,Laternser Straße,RFB 1,6,6.325,Grenztobelbrücke,L051 008,1969.0,6.5,,325.0,53.0,,True
+bruecke,bruecke.244,8    -L  51 -    -,L51,Laternser Straße,RFB 1,28,28.656,Ugabrücke,L051 023,1965.0,6.5,,656.0,57.0,,True
+bruecke,bruecke.259,8    -L  51 -    -,L51,Laternser Straße,RFB 1,8,8.484,Tiefenbachbrücke Baustellenumfahrung,L051 M010a,2019.0,6.5,,484.0,3.0,,False
+bruecke,bruecke.267,8    -L  51 -    -,L51,Laternser Straße,RFB 1,1,1.156,Frutzbrücke,L051 002,1947.0,6.5,,156.0,75.0,,True
+bruecke,bruecke.292,8    -L  51 -    -,L51,Laternser Straße,RFB 1,9,9.989,Sägetobelbrücke,L051 015,1973.0,6.5,,989.0,49.0,,True
+bruecke,bruecke.342,8    -L  51 -    -,L51,Laternser Straße,RFB 1,24,24.202,Armcodurchlass 3,L051 021,1969.0,6.5,,202.0,53.0,,True
+bruecke,bruecke.349,8    -L  51 -    -,L51,Laternser Straße,RFB 1,7,7.246,Kleine Brücke,L051 009,1978.0,6.5,,246.0,44.0,,True
+bruecke,bruecke.358,8    -L  51 -    -,L51,Laternser Straße,RFB 1,5,5.545,Wengtobeldurchlass,L051 006,1971.0,6.5,,545.0,51.0,,True
+bruecke,bruecke.374,8    -L  51 -    -,L51,Laternser Straße,RFB 1,13,13.477,Weberstobelbrücke,L051 017,1992.0,6.5,,477.0,30.0,,True
+bruecke,bruecke.471,8    -L  51 -    -,L51,Laternser Straße,RFB 1,9,9.834,Gläsertobelbrücke,L051 014,1973.0,6.5,,834.0,49.0,,True
+bruecke,bruecke.487,8    -L  51 -    -,L51,Laternser Straße,RFB 1,9,9.147,Hangbrücke,L051 011,1972.0,6.5,,147.0,50.0,,True
+bruecke,bruecke.499,8    -L  51 -    -,L51,Laternser Straße,RFB 1,25,25.454,Steinbachtobelbrücke,L051 022,1983.0,6.5,,454.0,39.0,,True
+bruecke,bruecke.549,8    -L  51 -    -,L51,Laternser Straße,RFB 1,27,27.961,Fussgängertunnel Hotel Adler,L051 024,2017.0,6.5,,961.0,5.0,,False
+bruecke,bruecke.559,8    -L  51 -    -,L51,Laternser Straße,RFB 1,15,15.076,Garnitzabachbrücke,L051 018,1978.0,6.5,,76.0,44.0,,True
+bruecke,bruecke.627,8    -L  51 -    -,L51,Laternser Straße,RFB 1,11,11.379,Schrägetobelbrücke,L051 016,1976.0,6.5,,379.0,46.0,,True
+bruecke,bruecke.653,8    -L  51 -    -,L51,Laternser Straße,RFB 1,4,4.666,Suldisbrücke,L051 005,1984.0,6.5,,666.0,38.0,,True
+bruecke,bruecke.664,8    -L  51 -    -,L51,Laternser Straße,RFB 1,9,9.614,Bärfallentobelbrücke,L051 013,1972.0,6.5,,614.0,50.0,,True
+bruecke,bruecke.670,8    -L  51 -    -,L51,Laternser Straße,RFB 1,1,1.108,Werkskanalbrücke (Triftkanal),L051 001,1947.0,6.5,,108.0,75.0,,True
+bruecke,bruecke.13,8    -L  52 -    -,L52,Meininger Straße,RFB 1,7,7.296,Geh- und Radwegbrücke über den Ehbach,L052 006a,1992.0,6.5,,296.0,30.0,,True
+bruecke,bruecke.113,8    -L  52 -    -,L52,Meininger Straße,RFB 1,7,7.658,Vorlandbrücke Meiningen,L052 007,1996.0,6.5,,658.0,26.0,,True
+bruecke,bruecke.174,8    -L  52 -    -,L52,Meininger Straße,RFB 1,3,3.478,Ehbachbrücke,L052 002,1994.0,6.5,,478.0,28.0,,True
+bruecke,bruecke.261,8    -L  52 -    -,L52,Meininger Straße,RFB 1,7,7.296,Ehbachbrücke 2,L052 006,1937.0,6.5,,296.0,85.0,,True
+bruecke,bruecke.391,8    -L  52 -    -,L52,Meininger Straße,RFB 1,5,5.89,Brunnenbachbrücke,L052 004,1920.0,6.5,,890.0,102.0,,True
+bruecke,bruecke.449,8    -L  52 -    -,L52,Meininger Straße,RFB 1,6,6.042,Oberdorferbachbrücke,L052 005,1951.0,6.5,,42.0,71.0,,True
+bruecke,bruecke.530,8    -L  52 -    -,L52,Meininger Straße,RFB 1,7,7.715,Rheinbrücke Meiningen - Oberriet (Grenze),L052 008,1963.0,6.5,,715.0,59.0,,True
+bruecke,bruecke.610,8    -L  52 -    -,L52,Meininger Straße,RFB 1,3,3.759,Förderbandtunnel Firma Hilti & Jehle,L052 009,1993.0,6.5,,759.0,29.0,,True
+bruecke,bruecke.124,8    -L  53 -    -,L53,Bangser Straße,RFB 1,6,6.308,Spiersbachbrücke,L053 003,2005.0,6.5,,308.0,17.0,,False
+bruecke,bruecke.145,8    -L  53 -    -,L53,Bangser Straße,RFB 1,0,0.686,Kapfbrücke,L053 001,1995.0,6.5,,686.0,27.0,,True
+bruecke,bruecke.319,8    -L  53 -    -,L53,Bangser Straße,RFB 1,0,0.116,Brücke über die Fidelisstraße,L053 005,1997.0,6.5,,116.0,25.0,,True
+bruecke,bruecke.551,8    -L  53 -    -,L53,Bangser Straße,RFB 1,0,0.629,Hämmerlekanalbrücke,L053 006,1995.0,6.5,,629.0,27.0,,True
+bruecke,bruecke.646,8    -L  53 -    -,L53,Bangser Straße,RFB 1,6,6.704,Rheinbrücke Feldkirch - Lienz (Grenze),L053 004,1967.0,6.5,,704.0,55.0,,True
+bruecke,bruecke.67,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,0,0.498,Aubachbrücke,L054 002,1989.0,6.5,,498.0,33.0,,True
+bruecke,bruecke.70,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,2,2.603,Pfudidetschbachbrücke,L054 003,2011.0,6.5,,603.0,11.0,,False
+bruecke,bruecke.209,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,12,12.331,Florbachbrücke,L054 007,1979.0,6.5,,331.0,43.0,,True
+bruecke,bruecke.228,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,7,7.279,Gafretschtobel / Montanastbachbrücke,L054 005,1976.0,6.5,,279.0,46.0,,True
+bruecke,bruecke.400,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,0,0.983,W2 Überführung der L54,A 14 109,1976.0,6.5,,983.0,46.0,,True
+bruecke,bruecke.421,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,7,7.32,Gafretschtobel / Schnifnerbachbrücke,L054 006,1976.0,6.5,,320.0,46.0,,True
+bruecke,bruecke.667,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,2,2.889,Kirchbachbrücke,L054 004,2011.0,6.5,,889.0,11.0,,False
+bruecke,bruecke.62,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,7,7.607,Frutzbrücke,L055 004,1972.0,6.5,,607.0,50.0,,True
+bruecke,bruecke.75,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,1,1.897,V71a Überführung der L55 über die Spur,A 14 069,1970.0,6.5,,897.0,52.0,,True
+bruecke,bruecke.138,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,9,9.734,Ehbachbrücke,L055 005,1968.0,6.5,,734.0,54.0,,True
+bruecke,bruecke.312,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,1,1.825,Gehwegunterführung Objekt V71c,L055 001,1971.0,6.5,,825.0,51.0,,True
+bruecke,bruecke.334,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,5,5.98,Mühlbachbrücke,L055 003,1963.0,6.5,,980.0,59.0,,True
+bruecke,bruecke.366,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,2,2.337,Egelseegrabenbrücke,L055 002,1961.0,6.5,,337.0,61.0,,True
+bruecke,bruecke.480,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,1,1.226,Gillbachdurchlass,L055 006,1993.0,6.5,,226.0,29.0,,True
+bruecke,bruecke.579,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,1,2.01,V71 Überführung der L55,A 14 068,1971.0,6.5,,1010.0,51.0,,True
+bruecke,bruecke.601,8    -L  55 -    -,L55,Koblacher Straße,RFB 1,2,2.138,"Durchlass Querung Wasserverband Rheintal LW 2,20m",L055 007,1971.0,6.5,,138.0,51.0,,True
+bruecke,bruecke.640,8    -L  56 -    -,L56,Götzner Lastenstraße,RFB 1,1,1.863,Hopbachbrücke,L056 001,1977.0,6.5,,863.0,45.0,,True
+bruecke,bruecke.34,8    -L  58 -    -,L58,Mäderer Straße,RFB 1,6,6.115,Koblacherkanalbrücke,L058 004,1978.0,6.5,,115.0,44.0,,True
+bruecke,bruecke.89,8    -L  58 -    -,L58,Mäderer Straße,RFB 1,2,2.14,Emmebachbrücke,L058 002,1981.0,6.5,,140.0,41.0,,True
+bruecke,bruecke.92,8    -L  58 -    -,L58,Mäderer Straße,RFB 1,3,3.188,Egelseegrabenbrücke,L058 003,1992.0,6.5,,188.0,30.0,,True
+bruecke,bruecke.573,8    -L  58 -    -,L58,Mäderer Straße,RFB 1,6,6.328,Rheinbrücke Mäder - Krießern (Grenze),L058 005,1979.0,6.5,,328.0,43.0,,True
+bruecke,bruecke.649,8    -L  58 -    -,L58,Mäderer Straße,RFB 1,0,0.22,Tiefgaragentunnel,L058 006,2013.0,6.5,,220.0,9.0,,False
+bruecke,bruecke.4,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,2,2.157,Gehsteigbrücke alter Mühlbach,L059 007,1975.0,6.5,,157.0,47.0,,True
+bruecke,bruecke.64,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,2,2.833,Gehsteigbrücke links an Güllbachbrücke,L059 003b,1975.0,6.5,,833.0,47.0,,True
+bruecke,bruecke.168,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,2,2.845,Güllbachbrücke,L059 003,1952.0,6.5,,845.0,70.0,,True
+bruecke,bruecke.200,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,3,3.333,Rheinbrücke Koblach - Montlingen,L059 005,1967.0,6.5,,333.0,55.0,,True
+bruecke,bruecke.295,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,2,2.041,Gehsteigbrücke Güllbachdurchlass,L059 006,1975.0,6.5,,41.0,47.0,,True
+bruecke,bruecke.306,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,3,3.081,Koblacherkanalbrücke,L059 004,1955.0,6.5,,81.0,67.0,,True
+bruecke,bruecke.337,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,0,0.381,V77b Kalkofenbachbrücke,L059 002,1971.0,6.5,,381.0,51.0,,True
+bruecke,bruecke.369,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,0,0.575,V77 Überführung der L59,A 14 075,1971.0,6.5,,575.0,51.0,,True
+bruecke,bruecke.483,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,2,2.833,Gehsteigbrücke rechts an Güllbachbrücke,L059 003a,1975.0,6.5,,833.0,47.0,,True
+bruecke,bruecke.59,8    -L  60 -    -,L60,Nofler Straße,RFB 1,4,4.548,Frickgrabenbrücke Liechtenstein (Grenze),L060 003,2001.0,6.5,,548.0,21.0,,False
+bruecke,bruecke.443,8    -L  60 -    -,L60,Nofler Straße,RFB 1,2,2.929,Hämmerlekanalbrücke,L060 001,1974.0,6.5,,929.0,48.0,,True
+bruecke,bruecke.466,8    -L  60 -    -,L60,Nofler Straße,RFB 1,2,2.991,Illbrücke,L060 002,1974.0,6.5,,991.0,48.0,,True
+bruecke,bruecke.636,8    -L  62 -    -,L62,Klauser Treietstraße,RFB 1,1,2.002,V79b Klausbachbrücke,L062 001,1971.0,6.5,,1002.0,51.0,,True
+bruecke,bruecke.192,8    -L  64 -    -,L64,Rankweiler Straße,RFB 1,0,0.68,Nafla Längskanal,L064 001,1989.0,6.5,,680.0,33.0,,True
+bruecke,bruecke.203,8    -L  65 -    -,L65,Göfner Straße,RFB 1,0,0.566,Illbrücke Göfis,L065 001,1986.0,6.5,,566.0,36.0,,True
+bruecke,bruecke.545,8    -L  65 -    -,L65,Göfner Straße,RFB 1,0,0.59,Brücke über den Illdammweg,L065 002,1986.0,6.5,,590.0,36.0,,True
+bruecke,bruecke.604,8    -L  65 -    -,L65,Göfner Straße,RFB 1,0,0.613,Schildriedbachdurchlass,L065 003,1986.0,6.5,,613.0,36.0,,True
+bruecke,bruecke.577,8    -L  66 -    -,L66,Feldkircher Straße,RFB 1,0,0.11,Schattenburgtunnel ÖBB,L066 001,2022.0,6.5,,110.0,0.0,,False
+bruecke,bruecke.43,8    -L  66 -    -D,L66-D,Feldkircher Straße,RFB 1,0,0.186,Schattenburgtunnel ÖBB,L066 001,2022.0,6.5,,186.0,0.0,,False
+bruecke,bruecke.39,8    -L  67 -    -,L67,Gampelüner Straße,RFB 1,0,0.905,Saminabrücke,L067 001,1900.0,6.5,,905.0,122.0,,True
+bruecke,bruecke.436,8    -L  67 -    -,L67,Gampelüner Straße,RFB 1,4,5.021,Galinabachbrücke,L067 002,1990.0,6.5,,1021.0,32.0,,True
+bruecke,bruecke.188,8    -L  69 -    -,L69,Fraxner Straße,RFB 1,0,0.112,Ratzbachbrücke,L069 001,1954.0,6.5,,112.0,68.0,,True
+bruecke,bruecke.463,8    -L  69 -    -,L69,Fraxner Straße,RFB 1,2,2.309,Wegdurchlass,L069 003,1972.0,6.5,,309.0,50.0,,True
+bruecke,bruecke.31,8    -L   7 -    -,L7,Schwarzachtobelstraße,RFB 1,0,0.7,Zehrerbrücke,L007 001,1974.0,6.5,,700.0,48.0,,True
+bruecke,bruecke.148,8    -L   7 -    -,L7,Schwarzachtobelstraße,RFB 1,1,1.837,Spargewölbe Stützmauer Pr 9 - 11,L007 006,1954.0,6.5,,837.0,68.0,,True
+bruecke,bruecke.225,8    -L   7 -    -,L7,Schwarzachtobelstraße,RFB 1,1,1.96,Gewölbedurchlass 1,L007 003,1839.0,6.5,,960.0,183.0,,True
+bruecke,bruecke.475,8    -L   7 -    -,L7,Schwarzachtobelstraße,RFB 1,1,1.79,Sehratobelbrücke,L007 002,1839.0,6.5,,790.0,183.0,,True
+bruecke,bruecke.495,8    -L  71 -    -,L71,Dafinser Straße,RFB 1,0,0.816,Frödischbachbrücke (Wannenbrücke),L071 001,1992.0,6.5,,816.0,30.0,,True
+bruecke,bruecke.275,8    -L  72 -    -,L72,Muntlixer Straße,RFB 1,0,0.475,Frödischbachbrücke,L072 001,1991.0,6.5,,475.0,31.0,,True
+bruecke,bruecke.53,8    -L  73 -    -,L73,Übersaxner Straße,RFB 1,2,3.102,Rainbergbrücke,L073 002,1979.0,6.5,,1102.0,43.0,,True
+bruecke,bruecke.114,8    -L  73 -    -,L73,Übersaxner Straße,RFB 1,10,10.505,Montanastbachbrücke,L073 003,2001.0,6.5,,505.0,21.0,,False
+bruecke,bruecke.154,8    -L  73 -    -,L73,Übersaxner Straße,RFB 1,15,15.189,Dorfbrücke über den Montanastbach,L073 006,1962.0,6.5,,189.0,60.0,,True
+bruecke,bruecke.182,8    -L  73 -    -,L73,Übersaxner Straße,RFB 1,11,11.705,Schnifnertobelbrücke,L073 004,1984.0,6.5,,705.0,38.0,,True
+bruecke,bruecke.539,8    -L  73 -    -,L73,Übersaxner Straße,RFB 1,14,14.266,Schnifisbachbrücke,L073 005,1990.0,6.5,,266.0,32.0,,True
+bruecke,bruecke.595,8    -L  73 -    -,L73,Übersaxner Straße,RFB 1,2,2.827,Übleschluchtwegdurchlass,L073 001,1979.0,6.5,,827.0,43.0,,True
+bruecke,bruecke.162,8    -L  74 -    -,L74,Schlinser Straße,RFB 1,0,0.494,W7/8 Überführung der L74,A 14 114,1976.0,6.5,,494.0,46.0,,True
+bruecke,bruecke.351,8    -L  74 -    -,L74,Schlinser Straße,RFB 1,0,0.917,Giessenbachbrücke,L074 003,1920.0,6.5,,917.0,102.0,,True
+bruecke,bruecke.672,8    -L  74 -    -,L74,Schlinser Straße,RFB 1,0,0.9,Alte Fabrikskanalbrücke,L074 002,1901.0,6.5,,900.0,121.0,,True
+bruecke,bruecke.360,8    -L   8 -    -,L8,Oberhochstegstraße,RFB 1,0,0.78,Bergerbachbrücke 1,L008 001,1969.0,6.5,,780.0,53.0,,True
+bruecke,bruecke.438,8    -L   8 -    -,L8,Oberhochstegstraße,RFB 1,0,1.09,Bergerbachbrücke 2,L008 002,1974.0,6.5,,1090.0,48.0,,True
+bruecke,bruecke.619,8    -L   8 -    -,L8,Oberhochstegstraße,RFB 1,1,1.588,Mühlbachbrücke,L008 003,1988.0,6.5,,588.0,34.0,,True
+bruecke,bruecke.105,8    -L  81 -    -,L81,Bürser Straße,RFB 1,0,0.206,Illbrücke Nüziders,L081 002,1995.0,6.5,,206.0,27.0,,True
+bruecke,bruecke.327,8    -L  81 -    -,L81,Bürser Straße,RFB 1,0,0.225,Brücke über den linksufrigen Weg,L081 004,1995.0,6.5,,225.0,27.0,,True
+bruecke,bruecke.512,8    -L  81 -    -,L81,Bürser Straße,RFB 1,0,0.146,Brücke über den rechtsufrigen Weg,L081 001,1995.0,6.5,,146.0,27.0,,True
+bruecke,bruecke.9,8    -L  82 -    -,L82,Brandner Straße,RFB 1,9,9.733,Schliefwaldtobelbrücke,L082 014,1996.0,6.5,,733.0,26.0,,True
+bruecke,bruecke.25,8    -L  82 -    -,L82,Brandner Straße,RFB 1,8,8.044,Leuegrabenbrücke,L082 007,1986.0,6.5,,44.0,36.0,,True
+bruecke,bruecke.83,8    -L  82 -    -,L82,Brandner Straße,RFB 1,0,0.321,Wirtschaftswegdurchlass,L082 002a,1975.0,6.5,,321.0,47.0,,True
+bruecke,bruecke.218,8    -L  82 -    -,L82,Brandner Straße,RFB 1,6,6.498,Töbelebrücke,L082 004,1983.0,6.5,,498.0,39.0,,True
+bruecke,bruecke.252,8    -L  82 -    -,L82,Brandner Straße,RFB 1,8,8.659,Daleubrücke,L082 012,1985.0,6.5,,659.0,37.0,,True
+bruecke,bruecke.269,8    -L  82 -    -,L82,Brandner Straße,RFB 1,8,8.129,Rappentobelbrücke,L082 008,1986.0,6.5,,129.0,36.0,,True
+bruecke,bruecke.282,8    -L  82 -    -,L82,Brandner Straße,RFB 1,11,11.17,Gastatobelbrücke,L082 015,1998.0,6.5,,170.0,24.0,,True
+bruecke,bruecke.301,8    -L  82 -    -,L82,Brandner Straße,RFB 1,0,0.048,Brunnenbachbrücke,L082 001,1975.0,6.5,,48.0,47.0,,True
+bruecke,bruecke.383,8    -L  82 -    -,L82,Brandner Straße,RFB 1,8,8.215,Hangbrücke,L082 009,1986.0,6.5,,215.0,36.0,,True
+bruecke,bruecke.414,8    -L  82 -    -,L82,Brandner Straße,RFB 1,0,0.309,Brücke über die ÖBB und Ill,L082 002,1975.0,6.5,,309.0,47.0,,True
+bruecke,bruecke.430,8    -L  82 -    -,L82,Brandner Straße,RFB 1,7,7.955,Grenzgrabenbrücke,L082 006,1986.0,6.5,,955.0,36.0,,True
+bruecke,bruecke.451,8    -L  82 -    -,L82,Brandner Straße,RFB 1,12,12.348,Illwerkebrücke (Palüdbach),L082 016,2022.0,6.5,,348.0,0.0,,False
+bruecke,bruecke.457,8    -L  82 -    -,L82,Brandner Straße,RFB 1,8,8.484,Marktobelbrücke,L082 011,1986.0,6.5,,484.0,36.0,,True
+bruecke,bruecke.489,8    -L  82 -    -,L82,Brandner Straße,RFB 1,0,0.542,W35 Überführung der L82,A 14 136,1969.0,6.5,,542.0,53.0,,True
+bruecke,bruecke.522,8    -L  82 -    -,L82,Brandner Straße,RFB 1,9,9.276,Galaverdabrücke,L082 013,1987.0,6.5,,276.0,35.0,,True
+bruecke,bruecke.568,8    -L  82 -    -,L82,Brandner Straße,RFB 1,8,8.285,Leuetobelbrücke,L082 010,1986.0,6.5,,285.0,36.0,,True
+bruecke,bruecke.587,8    -L  82 -    -,L82,Brandner Straße,RFB 1,7,7.799,Staudenbrücke,L082 005,1986.0,6.5,,799.0,36.0,,True
+bruecke,bruecke.655,8    -L  82 -    -,L82,Brandner Straße,RFB 1,1,1.445,Alvierbachbrücke,L082 003,1997.0,6.5,,445.0,25.0,,True
+bruecke,bruecke.47,8    -L  83 -    -,L83,Vandanser Straße,RFB 1,1,1.149,Rellsbachbrücke,L083 002,1952.0,6.5,,149.0,70.0,,True
+bruecke,bruecke.235,8    -L  83 -    -,L83,Vandanser Straße,RFB 1,2,2.9,Illbrücke Kaltenbrunnen,L083 005,2006.0,6.5,,900.0,16.0,,False
+bruecke,bruecke.393,8    -L  83 -    -,L83,Vandanser Straße,RFB 1,1,1.98,Stauseebrücke,L083 004,1950.0,6.5,,980.0,72.0,,True
+bruecke,bruecke.408,8    -L  83 -    -,L83,Vandanser Straße,RFB 1,1,1.242,Auenlatschbrücke,L083 003,1952.0,6.5,,242.0,70.0,,True
+bruecke,bruecke.423,8    -L  83 -    -,L83,Vandanser Straße,RFB 1,0,0.194,Illbrücke Vandans,L083 001,1959.0,6.5,,194.0,63.0,,True
+bruecke,bruecke.482,8    -L  84 -    -,L84,Zelfastraße,RFB 1,0,0.096,Illbrücke Tschagguns,L084 001,1940.0,6.5,,96.0,82.0,,True
+bruecke,bruecke.321,8    -L  86 -    -,L86,Galgenuler Straße,RFB 1,0,0.943,Suggadinbachbrücke,L086 002,1977.0,6.5,,943.0,45.0,,True
+bruecke,bruecke.376,8    -L  86 -    -,L86,Galgenuler Straße,RFB 1,0,0.611,Illbrücke,L086 001,1977.0,6.5,,611.0,45.0,,True
+bruecke,bruecke.69,8    -L  87 -    -,L87,Gaiser Straße,RFB 1,0,0.8,W10 Überführung der L87,A 14 117,1981.0,6.5,,800.0,41.0,,True
+bruecke,bruecke.77,8    -L  87 -    -,L87,Gaiser Straße,RFB 1,1,1.059,Daboladabrücke  W12,L087 003,1980.0,6.5,,59.0,42.0,,True
+bruecke,bruecke.99,8    -L  87 -    -,L87,Gaiser Straße,RFB 1,0,0.606,Brücke über die  Ill  W11,L087 002,1980.0,6.5,,606.0,42.0,,True
+bruecke,bruecke.147,8    -L  87 -    -,L87,Gaiser Straße,RFB 1,0,1.007,Radwegunterführung,L087 005,1991.0,6.5,,1007.0,31.0,,True
+bruecke,bruecke.222,8    -L  87 -    -,L87,Gaiser Straße,RFB 1,1,1.364,Erste Schwarzbachbrücke,L050 010,1982.0,6.5,,364.0,40.0,,True
+bruecke,bruecke.553,8    -L  87 -    -,L87,Gaiser Straße,RFB 1,0,0.622,Brücke über den Wirtschaftsweg W11a,L087 006,1980.0,6.5,,622.0,42.0,,True
+bruecke,bruecke.3,8    -L  88 -    -,L88,Raggaler Straße,RFB 1,4,4.64,Falazerabachbrücke,L088 004,2008.0,6.5,,640.0,14.0,,False
+bruecke,bruecke.19,8    -L  88 -    -,L88,Raggaler Straße,RFB 1,7,7.784,Talübergang Marul,L088 006,1983.0,6.5,,784.0,39.0,,True
+bruecke,bruecke.132,8    -L  88 -    -,L88,Raggaler Straße,RFB 1,6,6.813,Sägebachdurchlass,L088 005,1981.0,6.5,,813.0,41.0,,True
+bruecke,bruecke.176,8    -L  88 -    -,L88,Raggaler Straße,RFB 1,8,8.161,Plazerabrücke 1,L088 007,1979.0,6.5,,161.0,43.0,,True
+bruecke,bruecke.294,8    -L  88 -    -,L88,Raggaler Straße,RFB 1,10,11.02,Lutzbrücke bei Garsella,L088 010,1951.0,6.5,,1020.0,71.0,,True
+bruecke,bruecke.314,8    -L  88 -    -,L88,Raggaler Straße,RFB 1,10,10.222,Grenztobelbrücke,L088 009,2000.0,6.5,,222.0,22.0,,False
+bruecke,bruecke.506,8    -L  88 -    -,L88,Raggaler Straße,RFB 1,8,8.287,Plazerabrücke 2,L088 008,1979.0,6.5,,287.0,43.0,,True
+bruecke,bruecke.211,8    -L   9 -    -,L9,Rucksteigstraße,RFB 1,1,1.61,Hangbrücke,L009 001,1975.0,6.0,,610.0,47.0,,True
+bruecke,bruecke.246,8    -L  90 -    -,L90,Buchbodener Straße,RFB 1,0,0.565,Seebergtobelbrücke,L090 002,1975.0,6.0,,565.0,47.0,,True
+bruecke,bruecke.516,8    -L  90 -    -,L90,Buchbodener Straße,RFB 1,2,2.33,Grenztobelbrücke,L090 003,1991.0,6.0,,330.0,31.0,,True
+bruecke,bruecke.648,8    -L  90 -    -,L90,Buchbodener Straße,RFB 1,0,0.186,Buchholzgrabendurchlass,L090 001,1975.0,6.0,,186.0,47.0,,True
+bruecke,bruecke.344,8    -L  91 -    -,L91,Nüziderser Straße,RFB 1,0,0.863,Galgentobelbrücke,L091 001,2004.0,6.0,,863.0,18.0,,False
+bruecke,bruecke.561,8    -L  91 -    -,L91,Nüziderser Straße,RFB 1,2,3.193,Mühlbachdurchlass,L091 002,1992.0,6.0,,1193.0,30.0,,True
+bruecke,bruecke.156,8    -L  92 -    -,L92,Stallehrer Straße,RFB 1,0,0.402,Alfenzbrücke,L092 001,1891.0,6.0,,402.0,131.0,,True
+bruecke,bruecke.612,8    -L  92 -    -,L92,Stallehrer Straße,RFB 1,0,0.361,Überführung L92,S16 021,1972.0,6.0,,361.0,50.0,,True
+bruecke,bruecke.204,8    -L  94 -    -,L94,Bartholomäberger Straße,RFB 1,10,10.816,Muttatobelbrücke,L094 007,1945.0,6.0,,816.0,77.0,,True
+bruecke,bruecke.263,8    -L  94 -    -,L94,Bartholomäberger Straße,RFB 1,4,4.332,Fritzentobelbrücke,L094 004,2002.0,6.0,,332.0,20.0,,False
+bruecke,bruecke.532,8    -L  94 -    -,L94,Bartholomäberger Straße,RFB 1,8,8.157,Ganttobelbrücke,L094 006,1983.0,6.0,,157.0,39.0,,True
+bruecke,bruecke.581,8    -L  94 -    -,L94,Bartholomäberger Straße,RFB 1,0,0.827,Regenzombrücke,L094 002,1998.0,6.0,,827.0,24.0,,True
+bruecke,bruecke.629,8    -L  94 -    -,L94,Bartholomäberger Straße,RFB 1,7,7.732,Tschannatobelbrücke,L094 005,2002.0,6.0,,732.0,20.0,,False
+bruecke,bruecke.666,8    -L  94 -    -,L94,Bartholomäberger Straße,RFB 1,2,2.799,Grappatobelbrücke,L094 003,1983.0,6.0,,799.0,39.0,,True
+bruecke,bruecke.35,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,5,5.13,Kuenzentobelbrücke,L095 007,1961.0,6.0,,130.0,61.0,,True
+bruecke,bruecke.36,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,3,3.1,Litzbrücke in der Höll,L095 004,2016.0,6.0,,100.0,6.0,,False
+bruecke,bruecke.229,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,1,2.739,Hangbrücke 1,L095 002,1975.0,6.0,,1739.0,47.0,,True
+bruecke,bruecke.240,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,5,5.977,Mesmertobelbrücke,L095 008,1961.0,6.0,,977.0,61.0,,True
+bruecke,bruecke.278,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,1,1.157,Litzbrücke,L095 001,2004.0,6.0,,157.0,18.0,,False
+bruecke,bruecke.309,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,6,6.421,Endbachbrücke,L095 009,1961.0,6.0,,421.0,61.0,,True
+bruecke,bruecke.338,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,4,4.447,Hofstattbrücke,L095 006,1964.0,6.0,,447.0,58.0,,True
+bruecke,bruecke.387,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,3,3.567,Wasserstallbrücke,L095 005,1964.0,6.0,,567.0,58.0,,True
+bruecke,bruecke.467,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,1,1.541,Spargewölbemauer (Gehsteig),L095 011,1990.0,6.0,,541.0,32.0,,True
+bruecke,bruecke.476,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,2,2.833,Hangbrücke 2,L095 003,1975.0,6.0,,833.0,47.0,,True
+bruecke,bruecke.555,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,5,5.475,Feschatobelbrücke,L095 012,2005.0,6.0,,475.0,17.0,,False
+bruecke,bruecke.556,8    -L  95 -    -,L95,Silbertaler Straße,RFB 1,1,1.076,Privatzugang u Kellerdecke Dönz Prof 56-59,L095 013,2022.0,6.0,,76.0,0.0,,False
+bruecke,bruecke.12,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,15,15.78,Radonatobelbrücke,L097 014,2008.0,6.0,,780.0,14.0,,False
+bruecke,bruecke.42,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,15,15.109,Langbrücke,L097 013,1999.0,6.0,,109.0,23.0,,True
+bruecke,bruecke.63,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,11,11.637,Schmiedetobeldurchlass (und Betriebsumkehr S16),S16 002,1979.0,6.0,,637.0,43.0,,True
+bruecke,bruecke.93,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,8,8.211,Alfenzbrücke Gavril,L097 023,1971.0,6.0,,211.0,51.0,,True
+bruecke,bruecke.108,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,3,3.285,Spannerbachbrücke (Grubsertobelbach),L097 002,1931.0,6.0,,285.0,91.0,,True
+bruecke,bruecke.126,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,17,17.782,Glongtobelbrücke DW15,L097 015,1980.0,6.0,,782.0,42.0,,True
+bruecke,bruecke.141,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,10,10.508,Alfenzbrücke,L097 019,1995.0,6.0,,508.0,27.0,,True
+bruecke,bruecke.171,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,12,12.451,Rotrüfetobelbrücke,L097 008,1996.0,6.0,,451.0,26.0,,True
+bruecke,bruecke.286,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,8,8.169,Anschlussbauwerk Braz Ost,S16 008,1970.0,6.0,,169.0,52.0,,True
+bruecke,bruecke.370,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,12,12.969,Winkeltobelbrücke,L097 009,1954.0,6.0,,969.0,68.0,,True
+bruecke,bruecke.402,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,18,18.553,Spreubachbrücke,L097 016,2003.0,6.0,,553.0,19.0,,False
+bruecke,bruecke.417,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,13,13.142,Herrentobelbrücke,L097 010,1954.0,6.0,,142.0,68.0,,True
+bruecke,bruecke.446,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,14,14.599,Klemmebachbrücke,L097 011,1954.0,6.0,,599.0,68.0,,True
+bruecke,bruecke.500,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,5,5.624,Mühletobelbrücke,L097 004,1976.0,6.0,,624.0,46.0,,True
+bruecke,bruecke.548,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,6,6.826,Masonbachbrücke,L097 005,1976.0,6.0,,826.0,46.0,,True
+bruecke,bruecke.576,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,4,4.633,Almeintobelbrücke,L097 003,2000.0,6.0,,633.0,22.0,,False
+bruecke,bruecke.606,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,9,9.64,Brücke über den Wirtschaftsweg 4,S16 005,1996.0,6.0,,640.0,26.0,,True
+bruecke,bruecke.642,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,21,21.381,Wäldlebachbrücke,L097 018,1955.0,6.0,,381.0,67.0,,True
+bruecke,bruecke.660,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,11,11.934,Kleine Engelbrücke,L097 007,2007.0,6.0,,934.0,15.0,,False
+bruecke,bruecke.118,8    -P 188 -    -,P188,Silvretta Hochalpenstraße (Illwerke),RFB 1,11,11.934,Illbrücke,P188 005,2022.0,7.5,,934.0,0.0,,False
+bruecke,bruecke.185,8    -P 188 -    -,P188,Silvretta Hochalpenstraße (Illwerke),RFB 1,11,11.934,Illbrücke,P188 003,2022.0,7.5,,934.0,0.0,,False
+bruecke,bruecke.355,8    -P 188 -    -,P188,Silvretta Hochalpenstraße (Illwerke),RFB 1,11,11.934,Illbrücke,P188 002,2022.0,7.5,,934.0,0.0,,False
+bruecke,bruecke.623,8    -P 188 -    -,P188,Silvretta Hochalpenstraße (Illwerke),RFB 1,11,11.934,Illbrücke,P188 004,2022.0,7.5,,934.0,0.0,,False
+bruecke,bruecke.633,8    -P 188 -    -,P188,Silvretta Hochalpenstraße (Illwerke),RFB 1,11,11.934,Illbrücke,P188 001,2022.0,7.5,,934.0,0.0,,False
+bruecke,bruecke.526,8    -P  82 -    -,P82,Lünersee Straße (Illwerke),RFB 1,11,0.009,Illwerkebrücke (Palüdbach),L082 016,2022.0,7.5,,10991.0,0.0,,False
+galerie,galerie.8,8    -L 193 -    -,L193,Faschinastraße,RFB 1,26,27.783,Hahnenköpflegalerie,B193 G01,1985.0,,5.8,1783.0,37.0,10341.4,True
+galerie,galerie.45,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,17,17.917,Ralegg - Galerie,B197 G01,1995.0,,5.8,917.0,27.0,5318.599999999999,True
+galerie,galerie.46,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.248,Verwehungs - Holzgalerie,B198 G02,1939.0,,5.8,248.0,83.0,1438.3999999999999,True
+galerie,galerie.2,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.764,Steinbruchgalerie,B198 G06,1999.0,,5.8,764.0,23.0,4431.2,True
+galerie,galerie.6,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.092,Hölltobel Lawinengalerie,B198 G09,2009.0,,5.8,92.0,13.0,533.6,False
+galerie,galerie.9,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.706,Galerie Große Dohle,B198 G05,2005.0,,5.8,706.0,17.0,4094.7999999999997,False
+galerie,galerie.11,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.131,Hölltobelgalerie Verlängerung 1981,B198 G09a,1981.0,,5.8,131.0,41.0,759.8,True
+galerie,galerie.14,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.172,Leerle Holzgalerie,B198 G01,1934.0,,5.8,172.0,88.0,997.6,True
+galerie,galerie.22,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,6,7.843,Monzabongalerie,B198 G17,1975.0,,5.8,1843.0,47.0,10689.4,True
+galerie,galerie.24,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.585,Gafeli Galerie Verlängerung,B198 G16,1986.0,,5.8,585.0,36.0,3393.0,True
+galerie,galerie.26,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.371,Flexentor Naturstein,B198 G12,1964.0,,5.8,371.0,58.0,2151.7999999999997,True
+galerie,galerie.27,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.301,Steinschlaggalerie Gafeli,B198 G11,1970.0,,5.8,301.0,52.0,1745.8,True
+galerie,galerie.28,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.537,Gafeli Tunnelgalerie,B198 G15,1970.0,,5.8,537.0,52.0,3114.6,True
+galerie,galerie.30,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.271,Galerie Weißer Tunnel,B198 G10,1980.0,,5.8,271.0,42.0,1571.8,True
+galerie,galerie.31,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.425,Flexentorgalerie,B198 G13,1965.0,,5.8,425.0,57.0,2465.0,True
+galerie,galerie.33,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.355,Holzgalerie Hohe Seite,B198 G03,1988.0,,5.8,355.0,34.0,2059.0,True
+galerie,galerie.38,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.518,Tunnelgalerie Hohe Seite,B198 G04,1952.0,,5.8,518.0,70.0,3004.4,True
+galerie,galerie.40,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,2.003,Höllwandgalerie,B198 G08,2007.0,,5.8,1003.0,15.0,5817.4,False
+galerie,galerie.41,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.47,Gafeli Galerie,B198 G14,1972.0,,5.8,470.0,50.0,2726.0,True
+galerie,galerie.5,8    -L   2 -    -,L2,Langener Straße,RFB 1,6,6.338,Steinschlaggalerie,L002 G01,1971.0,,7.8,338.0,51.0,2636.4,True
+galerie,galerie.1,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,40,40.605,Galerie Fluhfelsen - Verlängerung 1987,B200 G02a,1987.0,,6.0,605.0,35.0,3630.0,True
+galerie,galerie.3,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,49,49.892,Riesegalerie Verlängerung,B200 G04,1984.0,,8.0,892.0,38.0,7136.0,True
+galerie,galerie.4,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,50.721,Schrofengalerie,B200 G06,1963.0,,7.0,721.0,59.0,5047.0,True
+galerie,galerie.7,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,61,61.772,Lärchengalerie Verlängerung,B200 G18,1989.0,,7.0,772.0,33.0,5404.0,True
+galerie,galerie.10,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,29,29.392,Klauserwald Galerie,B200 G01,1980.0,,7.0,392.0,42.0,2744.0,True
+galerie,galerie.15,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,60,61.371,Holzbodengalerie,B200 G09,1977.0,,7.0,1371.0,45.0,9597.0,True
+galerie,galerie.17,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,51,51.44,Immaschmiedlerloch,B200 G08,1971.0,,7.0,440.0,51.0,3080.0,True
+galerie,galerie.18,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,49,49.816,Riesegalerie,B200 G03,1979.0,,7.0,816.0,43.0,5712.0,True
+galerie,galerie.19,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,50.509,Schrofengalerie Verlängerung Nord,B200 G13,2000.0,,7.0,509.0,22.0,3563.0,False
+galerie,galerie.20,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,61,61.548,Lärchengalerie,B200 G10,1977.0,,10.0,548.0,45.0,5480.0,True
+galerie,galerie.21,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,40,40.543,Galerie Fluhfelsen,B200 G02,1968.0,,4.0,543.0,54.0,2172.0,True
+galerie,galerie.29,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,61,62.131,Birkengalerie,B200 G12,1968.0,,10.0,1131.0,54.0,11310.0,True
+galerie,galerie.32,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,61,61.908,Töbelegalerie,B200 G11,1977.0,,10.0,908.0,45.0,9080.0,True
+galerie,galerie.34,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,51,51.367,Plattensteg Lawinengalerie,B200 G15,2000.0,,8.0,367.0,22.0,2936.0,False
+galerie,galerie.36,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,50.82,Schrofengalerie Verlängerung Süd,B200 G14,2000.0,,8.0,820.0,22.0,6560.0,False
+galerie,galerie.39,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,51.204,Alter Stall,B200 G07,1969.0,,8.0,1204.0,53.0,9632.0,True
+galerie,galerie.42,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,49,49.98,Hummelwaldgalerie,B200 G05,1979.0,,8.0,980.0,43.0,7840.0,True
+galerie,galerie.43,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,51,51.701,Sulztobel Lawinengalerie,B200 G16,2001.0,,10.0,701.0,21.0,7010.0,False
+galerie,galerie.44,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,61,61.474,Holzbodengalerie Verlängerung,B200 G17,1989.0,,10.0,474.0,33.0,4740.0,True
+galerie,galerie.37,8    -L 201 -    -,L201,Kleinwalsertalstraße,RFB 1,11,11.868,Galerie Baad,B201 G01,1974.0,,4.0,868.0,48.0,3472.0,True
+galerie,galerie.25,8    -L  51 -    -,L51,Laternser Straße,RFB 1,4,5.003,Galerie Schwarze Rüfe,L051 G01,1981.0,,4.0,1003.0,41.0,4012.0,True
+galerie,galerie.16,8    -L   7 -    -,L7,Schwarzachtobelstraße,RFB 1,1,1.337,Galerie Kreuzfelsen,L007 G01,1971.0,,3.0,337.0,51.0,1011.0,True
+galerie,galerie.12,8    -L  82 -    -,L82,Brandner Straße,RFB 1,8,9.067,Daleugalerie,L082 G01,1987.0,,3.0,1067.0,35.0,3201.0,True
+galerie,galerie.13,8    -L  90 -    -,L90,Buchbodener Straße,RFB 1,1,1.405,Galerie Schwarze Dohle,L090 G01,1984.0,,6.0,405.0,38.0,2430.0,True
+galerie,galerie.23,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,22,22.605,Großtobelgalerie Abschnitt 2 Ost,L097 G02,1977.0,,6.0,605.0,45.0,3630.0,True
+galerie,galerie.35,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,22,22.191,Großtobelgalerie Abschnitt 1 West,L097 G01,1978.0,,6.0,191.0,44.0,1146.0,True
+tunnel,tunnel.13,8    -L  14 -    -,L14,Bucher Straße,RFB 1,2,2.512,Ippachtunnel,L014 T01,1978.0,,,512.0,44.0,,True
+tunnel,tunnel.12,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,70,70.775,Gortnieltunnel,B188 T01,1988.0,,,775.0,34.0,,True
+tunnel,tunnel.28,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,59,59.773,Tschambreutunnel,B188 T03,2006.0,,,773.0,16.0,,False
+tunnel,tunnel.36,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,70,71.5,Maurentobeltunnel,B188 T02,1988.0,,,1500.0,34.0,,True
+tunnel,tunnel.2,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,23,23.358,Schattenburgtunnel,B190 T01,1975.0,,,358.0,47.0,,True
+tunnel,tunnel.18,8    -L 193 -    -,L193,Faschinastraße,RFB 1,25,25.578,Stutztobeltunnel,B193 T01,1996.0,,,578.0,26.0,,True
+tunnel,tunnel.19,8    -L 193 -    -,L193,Faschinastraße,RFB 1,27,28.022,Hahnenköpflegalerie - Tunnelabschnitt,B193 T02,1984.0,,,1022.0,38.0,,True
+tunnel,tunnel.6,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,17,18.94,Passürtunnel,B197 T01,1996.0,,,1940.0,26.0,,True
+tunnel,tunnel.31,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,19,19.784,Fuchslochtunnel,B197 T02,1999.0,,,784.0,23.0,,True
+tunnel,tunnel.10,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.21,Leerle Tunnel,B198 T01,2008.0,,,210.0,14.0,,False
+tunnel,tunnel.16,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.431,Flexentortunnel 2,B198 T06,1965.0,,,431.0,57.0,,True
+tunnel,tunnel.17,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,8,8.4,Schafalptobeltunnel,B198 T07,1975.0,,,400.0,47.0,,True
+tunnel,tunnel.21,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.168,Weißer Tunnel Spritzbeton,B198 T04,1939.0,,,168.0,83.0,,True
+tunnel,tunnel.22,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.048,Hölltobeltunnel,B198 T03,1939.0,,,48.0,83.0,,True
+tunnel,tunnel.25,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,1,1.854,Steinbruchtunnel,B198 T02,1937.0,,,854.0,85.0,,True
+tunnel,tunnel.26,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,2,2.395,Flexentortunnel 1,B198 T05,1941.0,,,395.0,81.0,,True
+tunnel,tunnel.20,8    -L   2 -    -,L2,Langener Straße,RFB 1,7,7.24,Wirtatobeltunnel,L002 T01,1963.0,,,240.0,59.0,,True
+tunnel,tunnel.1,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,51,52.053,Sulztobeltunnel,B200 T03,1984.0,,,1053.0,38.0,,True
+tunnel,tunnel.3,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,50,50.618,Schrofentunnel,B200 T02,1959.0,,,618.0,63.0,,True
+tunnel,tunnel.4,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,54,55.01,Bliesetunnel,B200 T05,1988.0,,,1010.0,34.0,,True
+tunnel,tunnel.9,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,37,38.207,Schnepfauer Tunnel,B200 T08,2001.0,,,1207.0,21.0,,False
+tunnel,tunnel.14,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,45,45.655,Himmelriesetunnel,B200 T01,1959.0,,,655.0,63.0,,True
+tunnel,tunnel.24,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,1,5.317,Achraintunnel,B200 T09,2007.0,,,4317.0,15.0,,False
+tunnel,tunnel.27,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,53,53.982,Litzetobeltunnel,B200 T04,1987.0,,,982.0,35.0,,True
+tunnel,tunnel.33,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,60,60.977,Holzbodentunnel,B200 T06,1995.0,,,977.0,27.0,,True
+tunnel,tunnel.15,8    -L 200 -    -D,L200-D,Bregenzerwaldstraße,RFB 1,20,20.89,Tunnel Bühel,B200 T10,2016.0,,,890.0,6.0,,False
+tunnel,tunnel.11,8    -L  51 -    -,L51,Laternser Straße,RFB 1,4,4.895,Blankentunnel,L051 T02,1986.0,,,895.0,36.0,,True
+tunnel,tunnel.29,8    -L  51 -    -,L51,Laternser Straße,RFB 1,5,5.229,Schwarze Rüfe Tunnel,L051 T03,1952.0,,,229.0,70.0,,True
+tunnel,tunnel.35,8    -L  51 -    -,L51,Laternser Straße,RFB 1,4,4.592,Suldistunnel,L051 T01,1985.0,,,592.0,37.0,,True
+tunnel,tunnel.7,8    -L  53 -    -,L53,Bangser Straße,RFB 1,0,0.518,Ardetzenbergtunnel,L053 T01,1997.0,,,518.0,25.0,,True
+tunnel,tunnel.5,8    -L   7 -    -,L7,Schwarzachtobelstraße,RFB 1,1,1.413,Schwarzachtobeltunnel,L007 T01,1953.0,,,413.0,69.0,,True
+tunnel,tunnel.30,8    -L  82 -    -,L82,Brandner Straße,RFB 1,6,6.96,Tschapinatunnel,L082 T01,1991.0,,,960.0,31.0,,True
+tunnel,tunnel.8,8    -L  87 -    -,L87,Gaiser Straße,RFB 1,0,0.445,Nenzinger Tunnel,L087 T01,1996.0,,,445.0,26.0,,True
+tunnel,tunnel.23,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,22,22.392,Großtobeltunnel,L097 T02,1977.0,,,392.0,45.0,,True
+tunnel,tunnel.32,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,17,17.266,Stelzistobeltunnel,L097 T01,1981.0,,,266.0,41.0,,True
+tunnel,tunnel.34,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,8,8.836,Gasteltobeltunnel,L097 T03,2003.0,,,836.0,19.0,,False
+unterfuehrung,unterfuehrung.15,8    -L  11 -    -,L11,Eichenberger Straße,RFB 1,5,5.556,Überführung Wirtschaftsgebäudezufahrt,L011 U01,2022.0,,,556.0,0.0,,False
+unterfuehrung,unterfuehrung.59,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,0,0.709,V20R Überführung der A14 RFB Arlberg,A 14 011 R,1963.0,,,709.0,59.0,,True
+unterfuehrung,unterfuehrung.69,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,0,0.6,V21c Überführung der Spur 1000 über die L13,A 14 017,1996.0,,,600.0,26.0,,True
+unterfuehrung,unterfuehrung.72,8    -L  13 -    -,L13,Kennelbacher Straße,RFB 1,0,0.735,V20L Überführung der A14 RFB Deutschland,A 14 011 L,1950.0,,,735.0,72.0,,True
+unterfuehrung,unterfuehrung.8,8    -L  18 -    -,L18,Hörbranzer Straße,RFB 1,1,1.815,V11 Unterführung der A14,A 14 005,1968.0,,,815.0,54.0,,True
+unterfuehrung,unterfuehrung.6,8    -L 188 -    -,L188,Montafoner Straße,RFB 1,85,85.757,W43 Überführung der A14 und S16,A 14 146,1956.0,,,757.0,66.0,,True
+unterfuehrung,unterfuehrung.5,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,4,4.4,Unterführung der ÖBB,B190 U03,1965.0,,,400.0,57.0,,True
+unterfuehrung,unterfuehrung.11,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,4,0.011,W43 Überführung der A14 und S16,A 14 146,2003.0,,,3989.0,19.0,,False
+unterfuehrung,unterfuehrung.34,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,48,48.804,Unterführung der ÖBB,B190 U06,1992.0,,,804.0,30.0,,True
+unterfuehrung,unterfuehrung.41,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,52,52.818,Überführung der L41,B190 U07,1983.0,,,818.0,39.0,,True
+unterfuehrung,unterfuehrung.48,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,26,26.152,Unterführung der ÖBB,B190 U05,1946.0,,,152.0,76.0,,True
+unterfuehrung,unterfuehrung.60,8    -L 190 -    -,L190,Vorarlberger Straße,RFB 1,2,2.788,Brücke über die ÖBB und Ill,B190 U02,1971.0,,,788.0,51.0,,True
+unterfuehrung,unterfuehrung.1,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,22,22.446,Überführung der Brücke nach Göfis Stein,B190 U04R,1972.0,,,446.0,50.0,,True
+unterfuehrung,unterfuehrung.4,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,53,53.613,V32 Überführung der A14,A 14 029,1955.0,,,613.0,67.0,,True
+unterfuehrung,unterfuehrung.21,8    -L 190 -    -E,L190-E,Vorarlberger Straße (Einbahn),RFB 1,53,53.934,Unterführung der ÖBB,B190 U09R,1965.0,,,934.0,57.0,,True
+unterfuehrung,unterfuehrung.37,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,53,53.673,Unterführung der ÖBB,A 14 029,1993.0,,,673.0,29.0,,True
+unterfuehrung,unterfuehrung.62,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,53,53.56,V32 Überführung der A14,A 14 029,1954.0,,,560.0,68.0,,True
+unterfuehrung,unterfuehrung.67,8    -L 190 -    -G,L190-G,Vorarlberger Straße (Gegenfahrbahn),RFB 2,22,22.42,Überführung der Brücke nach Göfis Stein,B190 U04L,1962.0,,,420.0,60.0,,True
+unterfuehrung,unterfuehrung.32,8    -L 192 -    -,L192,Gargellener Straße,RFB 1,3,3.301,Illwerke Aquädukt,B192 U01,1963.0,,,301.0,59.0,,True
+unterfuehrung,unterfuehrung.19,8    -L 193 -    -,L193,Faschinastraße,RFB 1,28,28.128,Überführung Wirtschaftsweg,B193 U02,1940.0,,,128.0,82.0,,True
+unterfuehrung,unterfuehrung.31,8    -L 193 -    -,L193,Faschinastraße,RFB 1,1,1.408,ÖBB Überführung Nüziders,B193 U01,1999.0,,,408.0,23.0,,True
+unterfuehrung,unterfuehrung.58,8    -L 197 -    -,L197,Arlbergstraße,RFB 1,13,13.791,Überführung Schibrücke Valfagehr,B197 U01,1963.0,,,791.0,59.0,,True
+unterfuehrung,unterfuehrung.16,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,5,5.262,Überführung Schibrücke 2,B198 U02,1994.0,,,262.0,28.0,,True
+unterfuehrung,unterfuehrung.23,8    -L 198 -    -,L198,Lechtalstraße,RFB 1,4,4.87,Überführung Schibrücke 1,B198 U01,1940.0,,,870.0,82.0,,True
+unterfuehrung,unterfuehrung.14,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,36,36.055,Überführung Eschweg,B200 U02,1946.0,,,55.0,76.0,,True
+unterfuehrung,unterfuehrung.45,8    -L 200 -    -,L200,Bregenzerwaldstraße,RFB 1,1,1.708,Unterführung der ÖBB neu,B200 U01,1991.0,,,708.0,31.0,,True
+unterfuehrung,unterfuehrung.13,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,0,0.385,Überführung Fußgängersteg Bahnhof,B202 U01,1956.0,,,385.0,66.0,,True
+unterfuehrung,unterfuehrung.46,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,1,2.063,Unterführung der ÖBB,B202 U03,1977.0,,,1063.0,45.0,,True
+unterfuehrung,unterfuehrung.51,8    -L 202 -    -,L202,Schweizer Straße,RFB 1,0,0.615,Überführung Mehrerauerstraße,B202 U02,1975.0,,,615.0,47.0,,True
+unterfuehrung,unterfuehrung.43,8    -L 203 -    -,L203,Rheinstraße,RFB 1,13,13.308,Unterführung der ÖBB,B203 U02,1986.0,,,308.0,36.0,,True
+unterfuehrung,unterfuehrung.71,8    -L 203 -    -,L203,Rheinstraße,RFB 1,0,1.004,Unterführung der ÖBB,B203 U01,1999.0,,,1004.0,23.0,,True
+unterfuehrung,unterfuehrung.7,8    -L 204 -    -,L204,Lustenauer Straße,RFB 1,1,1.559,Unterführung der ÖBB,B204 U01,1972.0,,,559.0,50.0,,True
+unterfuehrung,unterfuehrung.30,8    -L 204 -    -,L204,Lustenauer Straße,RFB 1,2,2.764,Überführung der A14,A 14 052,1947.0,,,764.0,75.0,,True
+unterfuehrung,unterfuehrung.24,8    -L  25 -    -,L25,Müselbacher Straße,RFB 1,0,0.101,Überführung der L205,L025 U01,1963.0,,,101.0,59.0,,True
+unterfuehrung,unterfuehrung.22,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,3,3.1,Überführung Radweg,L003 014,2009.0,,,100.0,13.0,,False
+unterfuehrung,unterfuehrung.26,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,1,1.629,ÖBB Überführung Schweiz,L003 002,1995.0,,,629.0,27.0,,True
+unterfuehrung,unterfuehrung.39,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,3,3.093,V23 Unterführung der A14,A 14 023,1941.0,,,93.0,81.0,,True
+unterfuehrung,unterfuehrung.55,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,11,11.429,ÖBB Überführung,L003 012,1995.0,,,429.0,27.0,,True
+unterfuehrung,unterfuehrung.70,8    -L   3 -    -,L3,Hofsteigstraße,RFB 1,1,1.672,ÖBB Überführung Bregenz,L003 003,1950.0,,,672.0,72.0,,True
+unterfuehrung,unterfuehrung.53,8    -L  41 -    -,L41,Senderstraße,RFB 1,5,5.179,V35 Überführung der A14,A 14 032,1967.0,,,179.0,55.0,,True
+unterfuehrung,unterfuehrung.64,8    -L  41 -    -,L41,Senderstraße,RFB 1,6,6.963,Unterführung der ÖBB,L041 U04,1976.0,,,963.0,46.0,,True
+unterfuehrung,unterfuehrung.17,8    -L  41 -   6-R 5,L41-6-R5,L41 Senderstraße - Rampe 5,RFB 1,6,0.009,Überführung der L41 über die Rampe L41-6-R5,L041 U02,1947.0,,,5991.0,75.0,,True
+unterfuehrung,unterfuehrung.44,8    -L  41 -   6-R 6,L41-6-R6,L41 Senderstraße - Rampe 6,RFB 1,0,0.147,Überführung der L41 über die Rampe L41-6-R6,L041 U03,1994.0,,,147.0,28.0,,True
+unterfuehrung,unterfuehrung.36,8    -L  42 -    -,L42,Werbenstraße,RFB 1,0,1.072,Unterführung der ÖBB,L042 U01,1959.0,,,1072.0,63.0,,True
+unterfuehrung,unterfuehrung.38,8    -L  45 -    -,L45,Schmitternstraße,RFB 1,0,0.649,Unterführung der ÖBB,L045 U01,1941.0,,,649.0,81.0,,True
+unterfuehrung,unterfuehrung.40,8    -L  45 -    -,L45,Schmitternstraße,RFB 1,2,2.986,V58 Unterführung der A14,A 14 056,1940.0,,,986.0,82.0,,True
+unterfuehrung,unterfuehrung.20,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,0,0.392,ÖBB Überführung,L046 U01,1946.0,,,392.0,76.0,,True
+unterfuehrung,unterfuehrung.35,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,1,1.714,Überführung Radweg,L046 U03,1955.0,,,714.0,67.0,,True
+unterfuehrung,unterfuehrung.63,8    -L  46 -    -,L46,Diepoldsauer Straße,RFB 1,1,1.707,V65L Überführung der A14,A 14 061,1945.0,,,707.0,77.0,,True
+unterfuehrung,unterfuehrung.49,8    -L  47 -    -,L47,Bauernstraße,RFB 1,0,0.85,Unterführung der ÖBB,L047 U01,1993.0,,,850.0,29.0,,True
+unterfuehrung,unterfuehrung.12,8    -L  49 -    -,L49,Achrainstraße,RFB 1,0,1.006,Unterführung der ÖBB,L049 U01,1946.0,,,1006.0,76.0,,True
+unterfuehrung,unterfuehrung.42,8    -L  52 -    -,L52,Meininger Straße,RFB 1,1,1.197,V92 Überführung der A14,A 14 092,1971.0,,,197.0,51.0,,True
+unterfuehrung,unterfuehrung.50,8    -L  53 -    -,L53,Bangser Straße,RFB 1,0,1.058,Unterführung der ÖBB,L053 U01,1995.0,,,1058.0,27.0,,True
+unterfuehrung,unterfuehrung.33,8    -L  54 -    -,L54,Jagdbergstaße,RFB 1,0,0.297,Unterführung L190 und ÖBB,L054 U01,1980.0,,,297.0,42.0,,True
+unterfuehrung,unterfuehrung.18,8    -L  57 -    -,L57,Götzner Straße,RFB 1,0,0.829,Unterführung der ÖBB Mösle,L057 U01,1945.0,,,829.0,77.0,,True
+unterfuehrung,unterfuehrung.9,8    -L  58 -    -,L58,Mäderer Straße,RFB 1,1,1.933,V73 Überführung der A14,A 14 073,1942.0,,,933.0,80.0,,True
+unterfuehrung,unterfuehrung.28,8    -L  58 -    -,L58,Mäderer Straße,RFB 1,0,0.968,Unterführung der ÖBB,L058 U01,2009.0,,,968.0,13.0,,False
+unterfuehrung,unterfuehrung.10,8    -L  59 -    -,L59,Montlinger Straße,RFB 1,0,0.333,V77a Unterführung der ÖBB,L059 U01,1970.0,,,333.0,52.0,,True
+unterfuehrung,unterfuehrung.3,8    -L  62 -    -,L62,Klauser Treietstraße,RFB 1,2,2.254,V79a Unterführung der ÖBB,L062 U01,1957.0,,,254.0,65.0,,True
+unterfuehrung,unterfuehrung.65,8    -L  62 -    -,L62,Klauser Treietstraße,RFB 1,2,2.336,V79 Überführung der A14,A 14 078,1964.0,,,336.0,58.0,,True
+unterfuehrung,unterfuehrung.52,8    -L  63 -    -,L63,Röthner Treietstraße,RFB 1,0,0.959,Unterführung der ÖBB,L063 U02,1982.0,,,959.0,40.0,,True
+unterfuehrung,unterfuehrung.54,8    -L  63 -    -,L63,Röthner Treietstraße,RFB 1,0,0.237,V83 Überführung der A14,A 14 082,1979.0,,,237.0,43.0,,True
+unterfuehrung,unterfuehrung.29,8    -L  64 -    -,L64,Rankweiler Straße,RFB 1,0,0.873,V95 Überführung der A14,A 14 097,1983.0,,,873.0,39.0,,True
+unterfuehrung,unterfuehrung.47,8    -L  64 -    -,L64,Rankweiler Straße,RFB 1,1,2.118,Unterführung der ÖBB,L064 U02,1997.0,,,1118.0,25.0,,True
+unterfuehrung,unterfuehrung.56,8    -L  65 -    -,L65,Göfner Straße,RFB 1,0,0.457,F8 Überführung der A14,A 14 107,1988.0,,,457.0,34.0,,True
+unterfuehrung,unterfuehrung.27,8    -L  74 -    -,L74,Schlinser Straße,RFB 1,0,0.21,Unterführung der ÖBB,L074 U01,1969.0,,,210.0,53.0,,True
+unterfuehrung,unterfuehrung.66,8    -L  81 -    -,L81,Bürser Straße,RFB 1,0,0.402,W30 Überführung der A14,A 14 130,1945.0,,,402.0,77.0,,True
+unterfuehrung,unterfuehrung.25,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,2,2.663,Überführung der ÖBB,L097 U01,1987.0,,,663.0,35.0,,True
+unterfuehrung,unterfuehrung.61,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,15,15.049,DW28 Überführung der S16,L097 U02a,1975.0,,,49.0,47.0,,True
+unterfuehrung,unterfuehrung.68,8    -L  97 -    -,L97,Klostertaler Straße,RFB 1,14,15.014,DW28 Überführung der S16,L097 U02b,1973.0,,,1014.0,49.0,,True
+unterfuehrung,unterfuehrung.2,8    -P  50b-    -,P50b,Gaisbühel Straße,RFB 1,0,0.562,Überführung Zugangssteg Gebäude Gaisbühel,PB50 001,1957.0,,,562.0,65.0,,True
+unterfuehrung,unterfuehrung.57,8    -P  50b-    -,P50b,Gaisbühel Straße,RFB 1,0,0.546,Durchfahrt Gebäude,PB50 002,2001.0,,,546.0,21.0,,False
